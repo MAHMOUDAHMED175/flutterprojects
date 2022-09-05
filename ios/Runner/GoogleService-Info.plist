@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>53809087720-0kqjj4jipta7agi4ibht1jo1ob9vi76b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.53809087720-0kqjj4jipta7agi4ibht1jo1ob9vi76b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>53809087720-iiv7uobfh1fer886m436gfd11o24fcak.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMN5RbCPv3J4cICbQGRDsuIaHJIFj_dRw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>53809087720</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.newPp</string>
+	<key>PROJECT_ID</key>
+	<string>tasaoq-product</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tasaoq-product.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:53809087720:ios:8d6f25886ec02c000bb55d</string>
+</dict>
+</plist>

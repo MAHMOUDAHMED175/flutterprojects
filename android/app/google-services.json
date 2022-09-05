@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53809087720",
+    "project_id": "tasaoq-product",
+    "storage_bucket": "tasaoq-product.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53809087720:android:88a563c53823277d0bb55d",
+        "android_client_info": {
+          "package_name": "com.example.new_pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53809087720-iiv7uobfh1fer886m436gfd11o24fcak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_pp",
+            "certificate_hash": "b493f0a3eb4039e5b7a3365ccf074aba4c610bfc"
+          }
+        },
+        {
+          "client_id": "53809087720-t1n8241mgk6goh6ts8mc1rtph4c0pfgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG50qlnrE1L5RrBJDaVdrecizVBpypecE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53809087720-t1n8241mgk6goh6ts8mc1rtph4c0pfgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
