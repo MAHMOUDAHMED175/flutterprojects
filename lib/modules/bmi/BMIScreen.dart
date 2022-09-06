@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-
+//mgjgu
 import '../../shared/components/components.dart';
 import '../bmi_result/resultBMI.dart';
 
