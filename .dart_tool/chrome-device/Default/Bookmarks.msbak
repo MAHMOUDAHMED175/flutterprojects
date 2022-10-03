@@ -1,0 +1,109 @@
+{
+   "checksum": "60bea34fbc075a1ee50a17989e8b5eba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13278509821495989",
+            "guid": "2fb45797-3a27-4022-a369-76c6ff9f4961",
+            "id": "8",
+            "name": "تنزيل Google Chrome 94.0.4606.61 من أجل Windows مجانًا | Uptodown.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://google-chrome.ar.uptodown.com/windows/download"
+         }, {
+            "date_added": "13278510427568326",
+            "guid": "12151cc3-ec94-40d7-91a3-a293bead0673",
+            "id": "9",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13278510427570098",
+            "guid": "075b2970-5a30-47dd-9cdf-68e8b13ed048",
+            "id": "10",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13278510427571399",
+            "guid": "fb9fd46a-b31e-4c40-affc-78cf7666f8ed",
+            "id": "11",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13278530728742265",
+            "guid": "0df05272-8505-41cf-b44b-d79c2a44cd54",
+            "id": "12",
+            "name": "تنزيل الفيديو عبر الإنترنت - قم بتنزيل الفيديو والأغاني مجانًا",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ar.savefrom.net/15/"
+         } ],
+         "date_added": "13307917561722862",
+         "date_modified": "13278530728742265",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13279578896173626",
+                  "guid": "45fc62c3-3d2e-4484-a205-77185fd24fcb",
+                  "id": "7",
+                  "name": "You’re not connected",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "ms-appx-web://microsoft.microsoftedge/assets/errorpages/dnserror.html?ErrorStatus=0x800C0005&DNSError=11001#https://www.msn.com/spartan/dhp?locale=en-US&market=EG&enableregulatorypsm=0&enablecpsm=0&ishostisolationenforced=0&targetexperience=default"
+               } ],
+               "date_added": "13282761564464701",
+               "date_modified": "13282761564464701",
+               "guid": "25d054eb-30aa-4697-bc06-c79d1e81f198",
+               "id": "6",
+               "name": "Group 1",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13282761564463768",
+            "date_modified": "13282761564463768",
+            "guid": "4035b5b1-a99d-4dff-897a-3e047b6d67b9",
+            "id": "5",
+            "name": "Tabs set aside",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13307917561722875",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13307917561722888",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cj4KHgiIgQISCIKj/EyDAQAAKg4QABgBIAooBDAAOABAABIAIAEqGEJBdEk0U3FNZU1uRmY1TzBEV0d2ZFE9PRKoAQgLEqMBChw1bEVPc0V2VC9idndYZ3huNnN4akdVZ3Z2Nlk9EiRmYjlmZDQ2YS1iMzFlLTRjNDAtYWZmYy03OGNmNzY2NmY4ZWQYACACKAIwg9Ly57QwOPP7oo2gMEDvwvLntDBKHExGelk1dEJ6RjJFcmR3YUtNNnFDbDRaeW1BTT1aHyId1Hc1THNHVjZhY1g4RUt5TVBycVVWdjZQMWl1cz1lpPvomBKnAQgJEqIBChxMZ2VnZWdZWGZoNGt0NHpabW5OWW40MGtOR0U9EiQxMjE1MWNjMy1lYzk0LTQwZDctOTFhMy1hMjkzYmVhZDA2NzMYACACKAIwg9Ly57QwOMT7oo2gMEDtwvLntDBKHE1hZVdSK2V2MzBzcUFwb3BtV1I2azBkcm1PZz1aHiIcUGoxbCtzNlFMRERoSVBncEdhejhlR2JGMEp3PWV7p0BxEqcBCAYSogEKHE9XOHlmRUVCZlhRV1VzS01xbWRmR3kvVXgrQT0SJDI1ZDA1NGViLTMwYWEtNDY5Ny1iYzA2LWM3OWQxZTgxZjE5OBgAIAAoADDoyY/78y84uaqR+/MvQLmqkfvzL0occDhEcFdSQVhFT3JQb0lyajdWRHRvYVl0UCtVPVoeIhxHcXpkTTlTRjJ2a1Y0MUozeEY0azFKMGdNTmc9ZQAAAAASqAEIDBKjAQocTWdVWHlBWW5jNmxSeStVOVA0eGoxNHI5K0FRPRIkMGRmMDUyNzItODUwNS00MWNmLWI0NGItZDc5YzJhNDRjZDU0GAAgAigCMIPS8ue0MDii/KKNoDBA8MLy57QwShxmWFpRa0JsRlBYRG5EWFIvNzNiQVBwSUh6RW89Wh8iHepjcnlwUXk0ZDljVGQyVEJjdlp5UEUyUm1nSEE9ZRpCmToSpwEICBKiAQocZm9QVGtOc0o0b3pVNEl3R25uNS82blhaRkxnPRIkMmZiNDU3OTctM2EyNy00MDIyLWEzNjktNzZjNmZmOWY0OTYxGAAgAigCMIPS8ue0MDiqqpH78y9A7MLy57QwShx0THhnaytxWmhnN0o4d3dzQ1RlQlpIMCtiNlE9Wh4iHElpVEk0K2Nidm1ESWxSNG1JT01ZZWdXUFFycz1lbFbQFxKnAQgFEqIBChxRVmNaMEdQY0tuemJER1kyTWZUc2RLQUQ0ZEE9EiQ0MDM1YjViMS1hOTlkLTRkZmYtODk3YS0zZTA0N2I2ZDY3YjkYACAAKAAw6MmP+/MvOJqqkfvzL0CaqpH78y9KHFc2a1ZMYVphTE1RTlhGSkRzOW5IVmIwWDdJbz1aHiIcZUpVbWtKY0ljcTFaSFN2amdBZnFJMVg3WjA0PWUAAAAAEqcBCAcSogEKHFlVYWVpZEM4TXphd2NYZVJzWTZYb1gvdWk3RT0SJDQ1ZmM2MmMzLTNkMmUtNDQ4NC1hMjA1LTc3MTg1ZmQyNGZjYhgAIAAoADDoyY/78y8466mR+/MvQOupkfvzL0oca0J4bzlsSGx2SG5Ld3VBdkIvbTZkOGR3SENRPVoeIhxDdHFZQ1FPam52ZWNLa05vMHhzZmJiaFRoSWc9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZjIwMzNlN2MtYThiNy01ODM2LWE0YWQtNDYxODQ5NzU5M2U2GAAgACgAMKf5zOWwMDj0ppH78y9A9KaR+/MvShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgKEqMBChxIUjNycUV4VGsyUzd4bXRLM1hpVkQ1bDBBbEU9EiQwNzViMjk3MC01YTMwLTQ3ZGQtOWNkZi02OGU4YjEzZWQwNDgYACACKAIwg9Ly57QwOJL8oo2gMEDuwvLntDBKHGFzOXdxbWhWRzhkYnNjQ05BWDArYjJzTUExST1aHyIdqFBpV0Nha2tBZytxWXcyZmVxb09tRWVvQUNvRT1lOPk5MxKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ4ZDU4MWQ5OC1lNGY0LTVjNTctYWUxMS1iM2RhZDBiMjQ1ZDQYACAAKAAwp/nM5bAwOOSmkfvzL0DkppH78y9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDFhMzI3ODYzLWQ0N2ItNWRhYi05YzBmLTRjZjNmNGU0MDE4MRgAIAAoADCn+czlsDA4tqaR+/MvQLamkfvzL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}

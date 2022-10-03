@@ -1,0 +1,1755 @@
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: SidecarWindowBackend$ExtensionListenerImpl(androidx.window.layout.SidecarWindowBackend)
+com.google.android.gms.internal.firebase-auth-api.zzabq: com.google.android.gms.internal.firebase-auth-api.zzabq[] values()
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+androidx.window.layout.WindowLayoutInfo
+androidx.window.embedding.ActivityStack: java.util.List getActivities$window_release()
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface: int getErrorCode()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostResumed(android.app.Activity)
+androidx.window.embedding.MatcherUtils: boolean areActivityOrIntentComponentsMatching$window_release(android.app.Activity,android.content.ComponentName)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+androidx.window.embedding.SplitRule: boolean checkParentMetrics(android.view.WindowMetrics)
+androidx.window.embedding.EmbeddingRule: EmbeddingRule()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend$Companion Companion
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: void setDownloadListener(android.webkit.DownloadListener)
+androidx.window.R$styleable: int SplitPlaceholderRule_splitLayoutDirection
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: ExtensionEmbeddingBackend$EmbeddingCallbackImpl(androidx.window.embedding.ExtensionEmbeddingBackend)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String description
+androidx.window.layout.SidecarAdapter
+kotlinx.coroutines.JobSupport$addLastAtomic$$inlined$addLastIf$1
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+org.chromium.support_lib_boundary.VisualStateCallbackBoundaryInterface
+androidx.window.core.Bounds
+androidx.window.core.Version: androidx.window.core.Version UNKNOWN
+kotlin.jvm.internal.Lambda: java.lang.String toString()
+androidx.window.core.ExperimentalWindowApi
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: FlutterFirebasePluginRegistry()
+com.google.android.gms.internal.firebase-auth-api.zzaew: com.google.android.gms.internal.firebase-auth-api.zzaew[] values()
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+kotlinx.coroutines.BlockingEventLoop
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsP$window_release(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+androidx.window.layout.WindowInfoTrackerDecorator
+com.google.android.gms.internal.firebase-auth-api.zziw: com.google.android.gms.internal.firebase-auth-api.zzjc zzf
+androidx.window.layout.SidecarCompat: SidecarCompat(androidx.window.sidecar.SidecarInterface,androidx.window.layout.SidecarAdapter)
+androidx.window.layout.HardwareFoldingFeature$Companion
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+com.google.android.gms.common.annotation.KeepName
+androidx.window.core.Version$bigInteger$2: androidx.window.core.Version this$0
+kotlin.jvm.internal.Lambda: int getArity()
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept$lambda-0(androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper,androidx.window.layout.WindowLayoutInfo)
+androidx.webkit.internal.WebViewFeatureInternal: androidx.webkit.internal.WebViewFeatureInternal valueOf(java.lang.String)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertWebResourceError(java.lang.reflect.InvocationHandler)
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+androidx.window.layout.DisplayCompatHelperApi28
+androidx.window.core.Bounds: int getWidth()
+com.google.android.gms.internal.firebase-auth-api.zzik: int zze
+com.google.android.gms.internal.firebase-auth-api.zzpw: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zznw: int zze
+kotlinx.coroutines.InvokeOnCancelling
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityIntentPredicates(java.util.Set)
+androidx.window.core.Bounds: int getRight()
+com.google.android.gms.internal.firebase-auth-api.zzkd: com.google.android.gms.internal.firebase-auth-api.zzkd zzb
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+androidx.window.embedding.ActivityRule: java.util.Set getFilters()
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator$Companion$reset$1 INSTANCE
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface: void onSplitInfoChanged(java.util.List)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitRules$window_release(android.content.Context,int)
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.lang.Object)
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: java.util.List getComponents()
+androidx.lifecycle.ViewModel: ViewModel()
+kotlin.jvm.internal.CallableReference: java.lang.String getName()
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+androidx.window.embedding.SplitPairFilter: java.lang.String toString()
+androidx.window.embedding.SplitPairRule: boolean getClearTop()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: void invokeSuspend$lambda-0(kotlinx.coroutines.channels.Channel,androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.SidecarCompat$TranslatingCallback
+androidx.window.embedding.ActivityRule
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getOffscreenPreRaster()
+com.google.android.gms.internal.firebase-auth-api.zziw: int zze
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreStopped(android.app.Activity)
+androidx.window.layout.SidecarCompat: void unregisterComponentCallback(android.app.Activity)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock globalLock
+com.google.android.gms.internal.firebase-auth-api.zzit: com.google.android.gms.internal.firebase-auth-api.zzit zzb
+androidx.window.layout.HardwareFoldingFeature: HardwareFoldingFeature(androidx.window.core.Bounds,androidx.window.layout.HardwareFoldingFeature$Type,androidx.window.layout.FoldingFeature$State)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityCreated(android.app.Activity,android.os.Bundle)
+androidx.window.embedding.SplitRule
+io.flutter.embedding.engine.FlutterOverlaySurface
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.String toString()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+com.google.android.gms.internal.firebase-auth-api.zzjc: int zze
+androidx.window.embedding.SplitRule: SplitRule()
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void setSafeBrowsingWhitelist(java.util.List,android.webkit.ValueCallback)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: ExtensionWindowLayoutInfoBackend(androidx.window.extensions.layout.WindowLayoutComponent)
+com.google.android.gms.internal.firebase-auth-api.zzri: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+kotlinx.coroutines.StandaloneCoroutine
+com.example.new_pp.MainActivity
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface
+androidx.versionedparcelable.CustomVersionedParcelable
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: boolean shouldOverrideUrlLoading(android.webkit.WebView,android.webkit.WebResourceRequest)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: boolean isExtensionVersionSupported(java.lang.Integer)
+io.flutter.embedding.android.FlutterTextureView
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeWindowLayoutInfoListener(androidx.core.util.Consumer)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: ExtensionsWindowLayoutInfoAdapter()
+androidx.window.layout.HardwareFoldingFeature$Type: HardwareFoldingFeature$Type(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzji: int zzf
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+androidx.window.core.Bounds: boolean equals(java.lang.Object)
+androidx.window.embedding.SplitController: androidx.window.embedding.EmbeddingBackend embeddingBackend
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.window.embedding.SplitRule: float getSplitRatio()
+androidx.window.core.Version: int getPatch()
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+io.flutter.view.FlutterCallbackInformation
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+com.google.android.gms.signin.internal.zab: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+androidx.window.R$attr: int clearTop
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzmw: com.google.android.gms.internal.firebase-auth-api.zzmk zze
+com.google.android.gms.internal.firebase-auth-api.zzlq: com.google.android.gms.internal.firebase-auth-api.zzlq zzb
+kotlinx.coroutines.android.AndroidDispatcherFactory: int getLoadPriority()
+com.google.android.gms.internal.firebase-auth-api.zzko
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetricsCalculator$Companion Companion
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+androidx.window.embedding.ActivityFilter: android.content.ComponentName componentName
+androidx.core.graphics.drawable.IconCompat
+androidx.window.layout.SidecarCompat$DistinctElementCallback: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList getWindowLayoutChangeCallbacks()
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+androidx.window.embedding.SplitPairRule: boolean equals(java.lang.Object)
+com.google.android.gms.internal.firebase-auth-api.zzrc: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.android.AndroidExceptionPreHandler: void handleException(kotlin.coroutines.CoroutineContext,java.lang.Throwable)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker$Companion $$INSTANCE
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KVisibility getVisibility()
+kotlinx.coroutines.JobCancellingNode
+androidx.window.layout.HardwareFoldingFeature: android.graphics.Rect getBounds()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+androidx.window.embedding.EmbeddingCompat$Companion
+androidx.window.layout.FoldingFeature$Orientation: FoldingFeature$Orientation(java.lang.String)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void resumeWith(java.lang.Object)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1
+androidx.window.layout.WindowMetrics
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion()
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock globalLock
+androidx.window.core.Version: int hashCode()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebResourceRequest(android.webkit.WebResourceRequest)
+com.google.android.gms.internal.firebase-auth-api.zzit
+androidx.window.embedding.ActivityFilter: java.lang.String toString()
+androidx.window.layout.WindowInfoTracker$Companion: java.lang.String TAG
+com.google.android.gms.internal.firebase-auth-api.zzmw: int zzg
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+com.google.android.gms.internal.firebase-auth-api.zzpq: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+kotlin.coroutines.jvm.internal.SuspendLambda: java.lang.String toString()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: android.app.Activity activity
+kotlinx.coroutines.channels.AbstractSendChannel
+androidx.window.embedding.SplitPairRule: boolean finishSecondaryWithPrimary
+com.google.android.gms.internal.firebase-auth-api.zzld: com.google.android.gms.internal.firebase-auth-api.zzld zzb
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$202(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+kotlin.jvm.internal.CallableReference: java.util.List getAnnotations()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+androidx.window.embedding.SplitController: void removeSplitListener(androidx.core.util.Consumer)
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType$Companion Companion
+androidx.window.embedding.ExtensionEmbeddingBackend: void access$setGlobalInstance$cp(androidx.window.embedding.ExtensionEmbeddingBackend)
+androidx.window.embedding.EmbeddingAdapter: java.util.List translate(java.util.List)
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getPrimaryActivityStack()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getFOLD()
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Element get(kotlin.coroutines.CoroutineContext$Key)
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType FULL
+kotlin.jvm.internal.CallableReference: boolean isOpen()
+androidx.window.embedding.EmbeddingCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+androidx.window.layout.WindowLayoutInfo: java.util.List displayFeatures
+com.google.firebase.auth.internal.zzz: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.channels.Send
+com.google.android.gms.internal.firebase-auth-api.zzrg: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitPlaceholderRule: boolean equals(java.lang.Object)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion()
+androidx.window.embedding.ActivityRule: boolean equals(java.lang.Object)
+androidx.window.embedding.MatcherUtils: androidx.window.embedding.MatcherUtils INSTANCE
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion()
+androidx.window.embedding.ExtensionEmbeddingBackend: void setSplitRules(java.util.Set)
+com.google.android.gms.internal.firebase-auth-api.zzmx: com.google.android.gms.internal.firebase-auth-api.zzmx zzb
+com.google.android.gms.internal.firebase-auth-api.zzku: com.google.android.gms.internal.firebase-auth-api.zzku zzb
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowBackend windowBackend$window_release(android.content.Context)
+androidx.window.R$attr: int splitLayoutDirection
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzln: int zze
+androidx.window.core.Version: kotlin.Lazy bigInteger$delegate
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack secondaryActivityStack
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.WeakHashMap mActivityWindowLayoutInfo
+androidx.window.core.Bounds: int left
+kotlin.jvm.internal.CallableReference: java.lang.Object call(java.lang.Object[])
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.concurrent.locks.ReentrantLock lock
+kotlin.jvm.internal.CallableReference: java.util.List getParameters()
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KFunction getReflected()
+androidx.window.core.Version$Companion: androidx.window.core.Version getUNKNOWN()
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.ExtensionEmbeddingBackend: boolean isSplitSupported()
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.embedding.ActivityFilter
+com.google.android.gms.internal.firebase-auth-api.zzln: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertWebMessagePort(java.lang.reflect.InvocationHandler)
+com.example.new_pp.MainActivity: MainActivity()
+androidx.window.layout.WindowMetricsCalculator$Companion
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.window.core.Bounds: int getTop()
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.window.embedding.SplitRuleParser: SplitRuleParser()
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+androidx.window.layout.DisplayCompatHelperApi17: void getRealSize(android.view.Display,android.graphics.Point)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View,int,int)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: WindowInfoTrackerImpl$windowLayoutInfo$1(androidx.window.layout.WindowInfoTrackerImpl,android.app.Activity,kotlin.coroutines.Continuation)
+androidx.window.core.Version: java.lang.String getDescription()
+com.google.android.gms.internal.firebase-auth-api.zzmx
+com.google.android.gms.internal.firebase-auth-api.zzla: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarWindowLayoutInfo(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.ExtensionEmbeddingBackend: void setEmbeddingExtension(androidx.window.embedding.EmbeddingInterfaceCompat)
+androidx.window.core.Bounds: Bounds(android.graphics.Rect)
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+androidx.window.layout.WindowMetricsCalculator$Companion: void reset()
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+com.google.android.gms.safetynet.SafeBrowsingData: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPlaceholderRule parseSplitPlaceholderRule(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.java.R
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.ExtensionsWindowLayoutInfoAdapter INSTANCE
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int,kotlin.coroutines.Continuation)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPredicates(java.util.Set)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onSafeBrowsingHit(android.webkit.WebView,android.webkit.WebResourceRequest,int,java.lang.reflect.InvocationHandler)
+com.google.android.gms.internal.firebase-auth-api.zzaae: int zza
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+androidx.window.layout.WindowMetricsCalculatorCompat: java.lang.String TAG
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+androidx.core.app.CoreComponentFactory
+kotlinx.coroutines.CompletedExceptionally: int _handled
+androidx.window.R$styleable: int ActivityRule_alwaysExpand
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView: void setWebViewClient(android.webkit.WebViewClient)
+com.google.android.gms.internal.firebase-auth-api.zzzu: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+com.google.firebase.auth.internal.zzbb: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitPairFilter
+com.google.android.gms.internal.firebase-auth-api.zzkd: int zzf
+com.google.android.gms.internal.firebase-auth-api.zzru: android.os.Parcelable$Creator CREATOR
+androidx.fragment.app.FragmentActivity: FragmentActivity()
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+androidx.window.embedding.ActivityRule: boolean getAlwaysExpand()
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend access$getGlobalInstance$cp()
+com.google.android.gms.internal.firebase-auth-api.zzkd: int zze
+androidx.window.R$styleable: int[] SplitPairFilter
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+io.flutter.plugins.webviewflutter.InputAwareWebView: void setInputConnectionTarget(android.view.View)
+com.google.android.gms.internal.firebase-auth-api.zzmx: int zze
+kotlinx.coroutines.channels.AbstractChannel$enqueueReceiveInternal$$inlined$addLastIfPrevAndIf$1
+com.google.android.gms.internal.firebase-auth-api.zzka: int zze
+kotlinx.coroutines.CompletedExceptionally
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.layout.WindowMetrics: java.lang.String toString()
+com.google.android.gms.internal.firebase-auth-api.zznl: com.google.android.gms.internal.firebase-auth-api.zzno zzf
+androidx.window.core.Version: java.lang.String description
+com.google.android.gms.internal.firebase-auth-api.zzjf: com.google.android.gms.internal.firebase-auth-api.zzjf zzb
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: WindowMetricsCalculator$Companion$decorator$1()
+androidx.window.embedding.ActivityFilter: ActivityFilter(android.content.ComponentName,java.lang.String)
+androidx.window.embedding.SplitController: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+com.google.android.gms.internal.firebase-auth-api.zzla
+androidx.window.layout.WindowMetricsCalculatorCompat: int getNavigationBarHeight(android.content.Context)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: int getDisabledActionModeMenuItems()
+com.google.android.gms.common.data.DataHolder: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.window.layout.SidecarWindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.gms.internal.firebase-auth-api.zzkj: com.google.android.gms.internal.firebase-auth-api.zzkj zzb
+com.google.android.gms.internal.firebase-auth-api.zzly: com.google.android.gms.internal.firebase-auth-api.zzmb zze
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebMessagePort(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker
+androidx.window.layout.HardwareFoldingFeature$Type$Companion
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView
+com.google.android.gms.internal.firebase-auth-api.zznz
+androidx.window.embedding.ActivityFilter: java.lang.String intentAction
+androidx.window.embedding.ActivityRule: androidx.window.embedding.ActivityRule plus$window_release(androidx.window.embedding.ActivityFilter)
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getFOLD$cp()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+com.google.android.gms.internal.firebase-auth-api.zzkj
+com.google.android.gms.internal.firebase-auth-api.zzms: java.lang.String zzi
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityIntentPredicates$lambda-3(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+androidx.window.embedding.ActivityStack: boolean isEmpty()
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+kotlinx.coroutines.internal.LockFreeLinkedListNode
+androidx.window.R$styleable: R$styleable()
+androidx.window.R$styleable: int SplitPlaceholderRule_placeholderActivityName
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+androidx.window.layout.WindowMetrics: boolean equals(java.lang.Object)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter
+androidx.window.embedding.SplitController: void registerRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+kotlinx.coroutines.internal.LockFreeLinkedListHead
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void backToSafety(boolean)
+androidx.window.layout.SidecarAdapter: androidx.window.layout.WindowLayoutInfo translate(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarDeviceState)
+com.google.android.gms.internal.firebase-auth-api.zznw: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void removeListener(androidx.core.util.Consumer)
+com.google.android.gms.internal.firebase-auth-api.zzjx: int zzf
+androidx.core.content.ContextCompat$Api24Impl: boolean isDeviceProtectedStorage(android.content.Context)
+kotlinx.coroutines.DispatchedCoroutine
+androidx.window.embedding.SplitPlaceholderRule: int hashCode()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStopped(android.app.Activity)
+kotlin.jvm.internal.CallableReference: boolean isAbstract()
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+androidx.core.content.ContextCompat$Api24Impl: android.content.Context createDeviceProtectedStorageContext(android.content.Context)
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.window.layout.FoldingFeature$State: java.lang.String description
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface sidecar
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView: void setWebChromeClient(android.webkit.WebChromeClient)
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: android.view.View getView()
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator getOrCreate()
+kotlinx.coroutines.channels.LinkedListChannel
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void insertVisualStateCallback(long,java.lang.reflect.InvocationHandler)
+androidx.window.R$attr: int alwaysExpand
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+com.google.android.gms.internal.firebase-auth-api.zzjo: com.google.android.gms.internal.firebase-auth-api.zzjo zzb
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+androidx.window.R$styleable: int SplitPairRule_splitRatio
+com.google.android.gms.internal.firebase-auth-api.zzpu: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String observatoryUri
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+com.google.android.gms.internal.firebase-auth-api.zzmh: com.google.android.gms.internal.firebase-auth-api.zzmh zzb
+androidx.window.layout.SidecarCompat$Companion: android.os.IBinder getActivityWindowToken$window_release(android.app.Activity)
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.DisplayCompatHelperApi17: DisplayCompatHelperApi17()
+com.google.android.gms.internal.firebase-auth-api.zzqu: android.os.Parcelable$Creator CREATOR
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable computeReflected()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzld
+com.google.firebase.auth.zze: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.safetynet.zzf: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzlt
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertSettings(android.webkit.WebSettings)
+androidx.window.layout.WindowMetrics: WindowMetrics(androidx.window.core.Bounds)
+androidx.window.embedding.MatcherUtils: boolean sDebugMatchers
+com.google.android.gms.internal.firebase-auth-api.zzzo: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzse: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitRule: boolean equals(java.lang.Object)
+org.chromium.support_lib_boundary.StaticsBoundaryInterface
+com.google.android.gms.internal.firebase-auth-api.zznb: com.google.android.gms.internal.firebase-auth-api.zznb zzb
+kotlinx.coroutines.CommonPool: java.util.concurrent.Executor pool
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+androidx.window.embedding.SplitRuleParser: android.content.ComponentName buildClassName(java.lang.String,java.lang.CharSequence)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.concurrent.locks.ReentrantLock multicastConsumerLock
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView: android.view.View getView()
+androidx.window.core.Bounds: int hashCode()
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: WindowMetricsCalculator$Companion$overrideDecorator$1(java.lang.Object)
+kotlinx.coroutines.channels.AbstractChannel$ReceiveHasNext
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Companion Companion
+androidx.window.embedding.ActivityRule: java.util.Set filters
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void addListener(androidx.core.util.Consumer)
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,boolean)
+com.google.android.gms.common.api.internal.LifecycleCallback
+androidx.window.embedding.SplitController: java.util.Set getSplitRules()
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component1(android.util.Pair)
+androidx.window.embedding.EmbeddingCompat: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingExtension
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void releaseIntercepted()
+androidx.window.layout.WindowMetricsCalculator$Companion: void overrideDecorator(androidx.window.layout.WindowMetricsCalculatorDecorator)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.core.Bounds featureBounds
+com.google.android.gms.internal.firebase-auth-api.zzqs: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zziq: com.google.android.gms.internal.firebase-auth-api.zzln zzg
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface: void setServiceWorkerClient(java.lang.reflect.InvocationHandler)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: BaseContinuationImpl(kotlin.coroutines.Continuation)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getAllowContentAccess()
+kotlinx.coroutines.JobImpl
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getAllowFileAccess()
+com.google.android.gms.internal.firebase-auth-api.zzkx: com.google.android.gms.internal.firebase-auth-api.zzkx zzb
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.util.List)
+androidx.window.layout.ActivityCompatHelperApi24: androidx.window.layout.ActivityCompatHelperApi24 INSTANCE
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface
+androidx.window.layout.HardwareFoldingFeature: java.lang.String toString()
+com.google.android.gms.internal.firebase-auth-api.zzrk: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitRule$Api30Impl: SplitRule$Api30Impl()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void setLastInfo(java.util.List)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: SidecarCompat$DistinctSidecarElementCallback(androidx.window.layout.SidecarAdapter,androidx.window.sidecar.SidecarInterface$SidecarCallback)
+com.google.android.gms.internal.firebase-auth-api.zzqw: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ExtensionEmbeddingBackend: void getSplitChangeCallbacks$annotations()
+androidx.window.layout.FoldingFeature$Orientation$Companion
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+com.google.android.gms.internal.firebase-auth-api.zzno: java.lang.String zze
+androidx.window.embedding.EmptyEmbeddingComponent: EmptyEmbeddingComponent()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+androidx.window.layout.DisplayCompatHelperApi17
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type HINGE
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+com.google.android.gms.internal.firebase-auth-api.zzlq: int zzg
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.concurrent.locks.ReentrantLock extensionWindowBackendLock
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityRule parseSplitActivityRule(android.content.Context,android.content.res.XmlResourceParser)
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView
+com.google.android.gms.internal.firebase-auth-api.zzkg: com.google.android.gms.internal.firebase-auth-api.zzkg zzb
+kotlin.jvm.internal.Lambda: int arity
+androidx.window.embedding.SplitController
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat(androidx.window.extensions.embedding.ActivityEmbeddingComponent,androidx.window.embedding.EmbeddingAdapter)
+com.google.android.gms.common.internal.safeparcel.SafeParcelable: java.lang.String NULL
+androidx.window.embedding.SplitRule: int layoutDirection
+com.google.firebase.auth.TwitterAuthCredential: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType NONE
+kotlinx.coroutines.android.AndroidExceptionPreHandler: AndroidExceptionPreHandler()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type getType$window_release()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.jvm.internal.CoroutineStackFrame getCallerFrame()
+com.google.android.gms.safetynet.HarmfulAppsData: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend globalInstance
+androidx.window.R$styleable
+androidx.window.R$styleable: int[] SplitPairRule
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+com.google.android.gms.internal.firebase-auth-api.zzre: android.os.Parcelable$Creator CREATOR
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.window.layout.SidecarAdapter$Companion: int getSidecarDevicePosture$window_release(androidx.window.sidecar.SidecarDeviceState)
+com.google.android.gms.internal.firebase-auth-api.zzmk: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+androidx.window.layout.SidecarCompat: SidecarCompat(android.content.Context)
+com.google.android.gms.internal.firebase-auth-api.zzmw: com.google.android.gms.internal.firebase-auth-api.zzmw zzb
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityPair(android.app.Activity,android.app.Activity)
+kotlinx.coroutines.DefaultExecutor
+androidx.window.embedding.ExtensionEmbeddingBackend
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: androidx.core.util.Consumer $consumer
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsN$window_release(android.app.Activity)
+kotlinx.coroutines.channels.AbstractSendChannel: java.lang.Object onCloseHandler
+com.google.android.gms.internal.firebase-auth-api.zzaev: com.google.android.gms.internal.firebase-auth-api.zzaev[] values()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type FOLD
+androidx.window.embedding.SplitRule: int getLayoutDirection()
+com.google.android.gms.common.api.GoogleApiActivity
+androidx.window.layout.SidecarCompat$TranslatingCallback: androidx.window.layout.SidecarCompat this$0
+com.google.android.gms.internal.firebase-auth-api.zzmb: int zzf
+androidx.window.embedding.MatcherUtils: boolean areComponentsMatching$window_release(android.content.ComponentName,android.content.ComponentName)
+com.google.android.gms.internal.firebase-auth-api.zzjr: int zze
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.reflect.Method preHandler()
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State$Companion Companion
+androidx.window.layout.EmptyDecorator
+androidx.window.embedding.SplitPairFilter: java.lang.String getSecondaryActivityIntentAction()
+androidx.activity.ComponentActivity: ComponentActivity()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: java.lang.ref.WeakReference activityWeakReference
+com.google.android.gms.internal.firebase-auth-api.zznw
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+androidx.window.embedding.SplitInfo: java.lang.String toString()
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: android.app.Activity $activity
+kotlin.jvm.internal.CallableReference: java.lang.Object callBy(java.util.Map)
+androidx.window.core.Version: androidx.window.core.Version parse(java.lang.String)
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+androidx.window.embedding.EmbeddingCompat: java.lang.String TAG
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat getWindowExtension()
+androidx.window.layout.SidecarAdapter$Companion: java.util.List getSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+org.chromium.support_lib_boundary.ServiceWorkerClientBoundaryInterface: android.webkit.WebResourceResponse shouldInterceptRequest(android.webkit.WebResourceRequest)
+org.chromium.support_lib_boundary.ServiceWorkerClientBoundaryInterface
+androidx.lifecycle.SingleGeneratedAdapterObserver
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+androidx.window.layout.FoldingFeature$State: FoldingFeature$State(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzzq: android.os.Parcelable$Creator CREATOR
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlinx.coroutines.flow.Flow $flow
+androidx.window.layout.SidecarWindowBackend: void access$setGlobalInstance$cp(androidx.window.layout.SidecarWindowBackend)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+com.google.android.gms.internal.firebase-auth-api.zzjf: com.google.android.gms.internal.firebase-auth-api.zzjl zzf
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPaused(android.app.Activity)
+com.google.android.gms.internal.firebase-auth-api.zzms: boolean zzh
+androidx.window.core.Version: int patch
+kotlin.jvm.internal.CallableReference: boolean isTopLevel
+com.google.android.gms.internal.firebase-auth-api.zzjo: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+kotlin.jvm.internal.FunctionReference: int arity
+com.google.android.gms.internal.firebase-auth-api.zzme: int zze
+com.google.firebase.auth.FacebookAuthCredential: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ActivityRule: int hashCode()
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.ExtensionInterfaceCompat initAndVerifyExtension(android.content.Context)
+androidx.window.embedding.ActivityStack: boolean isEmpty
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion
+androidx.window.layout.SidecarCompat: java.util.Map windowListenerRegisteredContexts
+androidx.window.embedding.EmbeddingTranslatingCallback: EmbeddingTranslatingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface,androidx.window.embedding.EmbeddingAdapter)
+kotlinx.coroutines.channels.AbstractChannel
+com.google.android.gms.internal.firebase-auth-api.zzqo: android.os.Parcelable$Creator CREATOR
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeature(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDisplayFeature)
+androidx.window.core.Version: androidx.window.core.Version access$getUNKNOWN$cp()
+androidx.window.core.Version: Version(int,int,int,java.lang.String,kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+androidx.window.layout.WindowMetricsCalculator$Companion: kotlin.jvm.functions.Function1 decorator
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.MainCoroutineDispatcher createDispatcher(java.util.List)
+io.flutter.plugins.webviewflutter.JavaScriptChannel
+androidx.window.core.Version$bigInteger$2: Version$bigInteger$2(androidx.window.core.Version)
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext _context
+androidx.window.core.Bounds: int getHeight()
+kotlin.jvm.internal.CallableReference: java.lang.Object NO_RECEIVER
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable reflected
+androidx.window.layout.SidecarAdapter: SidecarAdapter()
+com.google.android.gms.common.internal.RootTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+androidx.window.core.Version: androidx.window.core.Version VERSION_1_0
+com.google.android.gms.internal.firebase-auth-api.zznc: com.google.android.gms.internal.firebase-auth-api.zznc zzb
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.FoldingFeature translate$window_release(android.app.Activity,androidx.window.extensions.layout.FoldingFeature)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept(java.util.List)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend access$getGlobalInstance$cp()
+kotlin.jvm.internal.CallableReference: java.lang.Class owner
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer getCallback()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: SidecarCompat$FirstAttachAdapter(androidx.window.layout.SidecarCompat,android.app.Activity)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: ExtensionWindowLayoutInfoBackend$MulticastConsumer(android.app.Activity)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addListener(java.util.concurrent.Executor,androidx.core.util.Consumer,kotlinx.coroutines.flow.Flow)
+androidx.window.embedding.EmbeddingCompat$Companion: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingComponent()
+com.google.android.gms.internal.firebase-auth-api.zznw: com.google.android.gms.internal.firebase-auth-api.zznw zzb
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+com.google.android.gms.common.api.GoogleApiActivity: GoogleApiActivity()
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getHINGE$cp()
+androidx.window.embedding.EmptyEmbeddingComponent
+androidx.window.embedding.EmbeddingAdapter: androidx.window.embedding.SplitInfo translate(androidx.window.extensions.embedding.SplitInfo)
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter access$getSidecarAdapter$p(androidx.window.layout.SidecarCompat)
+androidx.window.layout.SidecarCompat$Companion
+org.chromium.support_lib_boundary.WebMessageCallbackBoundaryInterface: void onMessage(java.lang.reflect.InvocationHandler,java.lang.reflect.InvocationHandler)
+androidx.window.embedding.SplitRule: int getMinSmallestWidth()
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetBottom(android.view.DisplayCutout)
+androidx.window.layout.WindowInfoTracker$Companion
+io.flutter.embedding.android.FlutterSurfaceView
+com.google.android.gms.internal.firebase-auth-api.zznb
+com.google.android.gms.internal.firebase-auth-api.zzkx: com.google.android.gms.internal.firebase-auth-api.zzla zzf
+androidx.window.R$styleable: int[] ActivityFilter
+com.google.firebase.auth.ActionCodeSettings: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: java.util.concurrent.ExecutorService cachedThreadPool
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+androidx.window.embedding.SplitPlaceholderRule: androidx.window.embedding.SplitPlaceholderRule plus$window_release(androidx.window.embedding.ActivityFilter)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+com.google.android.gms.internal.firebase-auth-api.zzka
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+com.google.firebase.provider.FirebaseInitProvider: FirebaseInitProvider()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzms: java.lang.String zzf
+androidx.window.embedding.EmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+androidx.window.R$attr: int secondaryActivityAction
+androidx.window.layout.SidecarCompat: java.util.Map componentCallbackMap
+androidx.webkit.internal.WebViewFeatureInternal: androidx.webkit.internal.WebViewFeatureInternal[] values()
+androidx.window.core.Version: androidx.window.core.Version$Companion Companion
+androidx.window.layout.WindowLayoutInfo: boolean equals(java.lang.Object)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.core.app.ComponentActivity: ComponentActivity()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$0
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+com.google.android.gms.internal.firebase-auth-api.zzli: com.google.android.gms.internal.firebase-auth-api.zzaau zze
+androidx.window.layout.FoldingFeature
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+com.google.android.gms.internal.firebase-auth-api.zzmp
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+com.google.android.gms.internal.firebase-auth-api.zzjr: com.google.android.gms.internal.firebase-auth-api.zzjr zzb
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+kotlinx.coroutines.CancelledContinuation: int _resumed
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept(androidx.window.layout.WindowLayoutInfo)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+androidx.window.embedding.ActivityFilter: boolean equals(java.lang.Object)
+androidx.window.R$attr: int finishSecondaryWithPrimary
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+androidx.window.embedding.ActivityStack
+androidx.core.app.RemoteActionCompat
+com.google.android.gms.internal.firebase-auth-api.zzku
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat: java.lang.String TAG
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewDetachedFromWindow(android.view.View)
+com.google.android.gms.internal.firebase-auth-api.zzry: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zziz: int zzf
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController globalInstance
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+com.google.android.gms.internal.firebase-auth-api.zznf: int zze
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+org.chromium.support_lib_boundary.FeatureFlagHolderBoundaryInterface: java.lang.String[] getSupportedFeatures()
+androidx.window.layout.EmptyDecorator: EmptyDecorator()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+com.google.android.gms.internal.firebase-auth-api.zznt
+androidx.window.embedding.SplitController: void initialize(android.content.Context,int)
+androidx.window.layout.SidecarWindowBackend: SidecarWindowBackend(androidx.window.layout.ExtensionInterfaceCompat)
+androidx.window.embedding.SplitPairRule: boolean getFinishSecondaryWithPrimary()
+androidx.window.embedding.EmbeddingCompat$Companion: boolean isEmbeddingAvailable()
+org.chromium.support_lib_boundary.WebMessageCallbackBoundaryInterface
+com.google.android.gms.internal.firebase-auth-api.zzme
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.core.Bounds: int getBottom()
+kotlin.coroutines.AbstractCoroutineContextElement: java.lang.Object fold(java.lang.Object,kotlin.jvm.functions.Function2)
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+com.google.android.gms.internal.firebase-auth-api.zzme: com.google.android.gms.internal.firebase-auth-api.zzme zzb
+com.google.android.gms.internal.firebase-auth-api.zziw: com.google.android.gms.internal.firebase-auth-api.zziw zzb
+io.flutter.embedding.android.FlutterSplashView$SavedState
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: ReportFragment$LifecycleCallbacks()
+androidx.window.layout.ExtensionInterfaceCompat: boolean validateExtensionInterface()
+androidx.window.embedding.SplitPairFilter: SplitPairFilter(android.content.ComponentName,android.content.ComponentName,java.lang.String)
+kotlinx.coroutines.channels.ArrayChannel: int size
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+kotlin.jvm.internal.CallableReference: java.lang.String getSignature()
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void setWebMessageCallback(java.lang.reflect.InvocationHandler,android.os.Handler)
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: int getCacheMode()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend windowBackend
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController$Companion Companion
+com.google.android.gms.internal.firebase-auth-api.zzjr: int zzf
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable computeReflected()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArraySet splitRules
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: java.lang.Object emit(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.window.embedding.SplitRule: float splitRatio
+com.google.android.gms.internal.firebase-auth-api.zznl
+com.google.android.gms.internal.firebase-auth-api.zzsc: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarCompat: boolean validateExtensionInterface()
+androidx.window.R$attr: int primaryActivityName
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+kotlin.jvm.internal.CallableReference: java.lang.Object receiver
+kotlinx.coroutines.channels.RendezvousChannel
+androidx.window.layout.DisplayFeature
+com.google.android.gms.internal.firebase-auth-api.zzni
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor: java.lang.String MODULE_ID
+com.google.android.gms.internal.firebase-auth-api.zzln
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+com.google.firebase.auth.FirebaseAuth
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarDeviceState lastDeviceState
+com.google.android.gms.internal.firebase-auth-api.zzji
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList windowLayoutChangeCallbacks
+androidx.window.embedding.EmbeddingCompat
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.android.gms.internal.firebase-auth-api.zzqy: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer callback
+androidx.window.layout.SidecarWindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+androidx.window.layout.SidecarCompat$Companion: androidx.window.core.Version getSidecarVersion()
+com.google.firebase.FirebaseCommonRegistrar
+androidx.window.embedding.SplitController: void clearRegisteredRules()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getHINGE()
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetRight(android.view.DisplayCutout)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: void postMessageToMainFrame(java.lang.reflect.InvocationHandler,android.net.Uri)
+androidx.window.embedding.SplitPairRule: java.util.Set getFilters()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: androidx.window.layout.SidecarCompat sidecarCompat
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+kotlin.jvm.internal.FunctionReference: boolean isInfix()
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+kotlinx.coroutines.CompletionHandlerBase
+androidx.window.core.Version: androidx.window.core.Version access$getCURRENT$cp()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.embedding.SplitController$Companion
+androidx.window.embedding.ActivityFilter: android.content.ComponentName getComponentName()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeListener(androidx.core.util.Consumer)
+com.google.firebase.auth.FirebaseAuth: com.google.firebase.auth.FirebaseAuth getInstance(com.google.firebase.FirebaseApp)
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.core.Bounds: int right
+androidx.window.embedding.EmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+androidx.window.R$id: int locale
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+com.google.android.gms.internal.firebase-auth-api.zzkx: int zze
+androidx.annotation.Keep
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: WindowMetricsCalculator$Companion$reset$1()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: androidx.window.embedding.ExtensionEmbeddingBackend this$0
+androidx.window.layout.SidecarCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion()
+com.google.android.gms.internal.firebase-auth-api.zzzb: android.os.Parcelable$Creator CREATOR
+kotlin.jvm.internal.CallableReference: java.lang.String name
+androidx.window.R$styleable: int SplitPairFilter_primaryActivityName
+com.google.firebase.auth.internal.GenericIdpActivity: GenericIdpActivity()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewAttachedToWindow(android.view.View)
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState,int)
+com.google.android.gms.internal.firebase-auth-api.zznz: com.google.android.gms.internal.firebase-auth-api.zznz zzb
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.SidecarCompat
+io.flutter.embedding.engine.FlutterJNI
+androidx.activity.ImmLeaksCleaner
+androidx.window.R$attr: int splitMinSmallestWidth
+androidx.core.graphics.drawable.IconCompatParcelizer
+com.google.firebase.auth.PhoneMultiFactorInfo: android.os.Parcelable$Creator CREATOR
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onReceivedError(android.webkit.WebView,android.webkit.WebResourceRequest,java.lang.reflect.InvocationHandler)
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation,kotlin.coroutines.CoroutineContext)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+androidx.window.layout.SidecarCompat$TranslatingCallback: SidecarCompat$TranslatingCallback(androidx.window.layout.SidecarCompat)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: java.lang.Object invoke(java.lang.Object)
+androidx.window.core.Bounds: int getLeft()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getWebkitToCompatConverter()
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent getPlaceholderIntent()
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+androidx.window.embedding.SplitController$Companion: androidx.window.embedding.SplitController getInstance()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+androidx.window.layout.WindowInfoTrackerDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getSecondaryActivityName()
+com.google.android.gms.internal.firebase-auth-api.zzms
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface extensionCallback
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setDisabledActionModeMenuItems(int)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+androidx.browser.browseractions.BrowserActionsFallbackMenuView
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowInfoTrackerImpl$Companion Companion
+androidx.window.embedding.SplitPairFilter: int hashCode()
+androidx.window.layout.WindowMetricsCalculatorCompat
+androidx.window.R$attr: int secondaryActivityName
+androidx.window.embedding.SplitController: java.util.Set staticSplitRules
+com.google.android.gms.internal.firebase-auth-api.zzno: com.google.android.gms.internal.firebase-auth-api.zzno zzb
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext plus(kotlin.coroutines.CoroutineContext)
+androidx.window.layout.WindowInfoTrackerImpl$Companion
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+kotlinx.coroutines.scheduling.LimitingDispatcher: int inFlightTasks
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.SplitPairRule
+com.google.android.gms.internal.firebase-auth-api.zzmw
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel: LoaderManagerImpl$LoaderViewModel()
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarCompat$Companion Companion
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController access$getGlobalInstance$cp()
+com.google.android.gms.internal.firebase-auth-api.zzabx: int zzd
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation HORIZONTAL
+com.google.android.gms.internal.firebase-auth-api.zzmk
+androidx.window.R$styleable: int[] SplitPlaceholderRule
+androidx.window.layout.SidecarAdapter$Companion: int getRawSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+androidx.window.R: R()
+kotlin.coroutines.AbstractCoroutineContextElement: AbstractCoroutineContextElement(kotlin.coroutines.CoroutineContext$Key)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+com.google.android.gms.internal.firebase-auth-api.zznb: int zzg
+androidx.window.layout.WindowMetricsCalculatorCompat: void getRectSizeFromDisplay(android.app.Activity,android.graphics.Rect)
+androidx.window.layout.SidecarCompat: void registerConfigurationChangeListener(android.app.Activity)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.List lastValue
+androidx.window.embedding.EmbeddingBackend: java.util.Set getSplitRules()
+com.google.android.gms.internal.firebase-auth-api.zzmp: com.google.android.gms.internal.firebase-auth-api.zzmp zzb
+com.google.android.gms.internal.firebase-auth-api.zzih: com.google.android.gms.internal.firebase-auth-api.zzin zzg
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invokeSuspend(java.lang.Object)
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getServiceWorkerController()
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPrePaused(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KDeclarationContainer getOwner()
+androidx.window.embedding.SplitPlaceholderRule
+com.google.android.gms.internal.firebase-auth-api.zzms: com.google.android.gms.internal.firebase-auth-api.zzms zzb
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: boolean isEmpty()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KType getReturnType()
+androidx.window.R$attr: int placeholderActivityName
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.String getData()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.Set registeredListeners
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+androidx.window.core.Bounds: boolean isZero()
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zziq
+androidx.savedstate.SavedStateRegistry$1
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+androidx.fragment.app.BackStackState: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowMetricsCalculator windowMetricsCalculator
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+com.google.android.gms.internal.firebase-auth-api.zzlt: int zze
+kotlinx.coroutines.internal.AtomicOp
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.WindowLayoutInfo translate$window_release(android.app.Activity,androidx.window.extensions.layout.WindowLayoutInfo)
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+androidx.window.layout.SidecarAdapter: java.util.List translate(java.util.List,androidx.window.sidecar.SidecarDeviceState)
+com.google.android.gms.internal.firebase-auth-api.zzit: com.google.android.gms.internal.firebase-auth-api.zziz zze
+com.google.android.gms.internal.firebase-auth-api.zzju: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: void setWebViewClient(android.webkit.WebViewClient)
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+kotlin.jvm.internal.FunctionReference: boolean isOperator()
+androidx.window.layout.SidecarCompat$DistinctElementCallback
+androidx.window.layout.WindowLayoutInfo: int hashCode()
+kotlinx.coroutines.ChildContinuation
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+com.google.firebase.auth.FirebaseAuthRegistrar
+com.google.android.gms.internal.firebase-auth-api.zzlt: com.google.android.gms.internal.firebase-auth-api.zzlt zzb
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView
+org.chromium.support_lib_boundary.VisualStateCallbackBoundaryInterface: void onComplete(long)
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+org.chromium.support_lib_boundary.WebMessageBoundaryInterface: java.lang.reflect.InvocationHandler[] getPorts()
+androidx.window.embedding.SplitPairRule: boolean finishPrimaryWithSecondary
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void proceed(boolean)
+io.flutter.plugins.GeneratedPluginRegistrant
+androidx.window.embedding.ActivityFilter: java.lang.String getIntentAction()
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation$Companion Companion
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+com.google.android.gms.internal.firebase-auth-api.zzjl: com.google.android.gms.internal.firebase-auth-api.zzjl zzb
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: int label
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.core.Version: androidx.window.core.Version VERSION_0_1
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+androidx.window.layout.ExtensionInterfaceCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityName
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView: void setDownloadListener(android.webkit.DownloadListener)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+androidx.window.core.Version: int getMajor()
+kotlinx.coroutines.scheduling.LimitingDispatcher
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+androidx.window.R$id: int ltr
+androidx.window.embedding.SplitController: void access$setStaticSplitRules(androidx.window.embedding.SplitController,java.util.Set)
+androidx.window.embedding.SplitRule$Api30Impl: androidx.window.embedding.SplitRule$Api30Impl INSTANCE
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+com.google.android.gms.internal.firebase-auth-api.zzka: com.google.android.gms.internal.firebase-auth-api.zzka zzb
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+com.google.android.gms.internal.firebase-auth-api.zzly
+androidx.window.layout.ExtensionWindowLayoutInfoBackend
+androidx.window.layout.SidecarAdapter: java.lang.String access$getTAG$cp()
+com.google.firebase.auth.internal.RecaptchaActivity: RecaptchaActivity()
+androidx.window.embedding.EmbeddingInterfaceCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted()
+kotlinx.coroutines.UndispatchedCoroutine
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type$Companion Companion
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface
+com.google.android.gms.internal.firebase-auth-api.zziz: com.google.android.gms.internal.firebase-auth-api.zziz zzb
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.embedding.SplitController: void setStaticSplitRules(java.util.Set)
+androidx.versionedparcelable.ParcelImpl
+com.google.android.gms.internal.firebase-auth-api.zzpy: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzmh: com.google.android.gms.internal.firebase-auth-api.zzmb zzf
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityAction
+com.google.firebase.auth.GithubAuthCredential: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar: java.util.List getComponents()
+com.google.android.gms.internal.firebase-auth-api.zzyu: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.gms.internal.firebase-auth-api.zzjl
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+androidx.window.embedding.SplitRule: int hashCode()
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingAdapter adapter
+kotlinx.coroutines.AbstractCoroutine
+androidx.window.layout.SidecarCompat$DistinctElementCallback: SidecarCompat$DistinctElementCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+androidx.window.embedding.SplitPairRule: int hashCode()
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1
+androidx.fragment.app.FragmentState: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo getLastInfo()
+com.google.android.gms.internal.firebase-auth-api.zzkd
+com.google.android.gms.internal.firebase-auth-api.zznc: int zze
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface
+androidx.window.core.Version: Version(int,int,int,java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+android.support.v4.graphics.drawable.IconCompatParcelizer
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onLowMemory()
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateParentMetricsPredicate(androidx.window.embedding.SplitRule)
+kotlin.jvm.internal.FunctionReference: int hashCode()
+com.google.firebase.auth.FirebaseAuthRegistrar: FirebaseAuthRegistrar()
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setBlockNetworkLoads(boolean)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList splitChangeCallbacks
+org.chromium.support_lib_boundary.SafeBrowsingResponseBoundaryInterface: void showInterstitial(boolean)
+com.google.android.gms.internal.firebase-auth-api.zzmk: int zzg
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: FlutterFirebaseCoreRegistrar()
+io.flutter.plugins.webviewflutter.JavaScriptChannel: void postMessage(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzni: java.lang.String zze
+com.google.android.gms.internal.firebase-auth-api.zzit: com.google.android.gms.internal.firebase-auth-api.zzlq zzf
+com.google.firebase.auth.internal.zzt: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.EmbeddingCompat$Companion: java.lang.Integer getExtensionApiLevel()
+kotlinx.coroutines.android.HandlerContext
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void onSplitInfoChanged(java.util.List)
+com.google.android.gms.internal.firebase-auth-api.zziw
+androidx.window.embedding.ActivityStack: boolean equals(java.lang.Object)
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String toString()
+androidx.window.embedding.EmptyEmbeddingComponent: void setEmbeddingRules(java.util.Set)
+com.google.android.gms.internal.firebase-auth-api.zziz
+com.google.android.gms.internal.firebase-auth-api.zzkg: int zze
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinSmallestWidth
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State state
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.core.Version: int getMinor()
+com.google.android.gms.auth.api.signin.GoogleSignInAccount: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.concurrent.locks.ReentrantLock lock
+com.google.android.gms.internal.firebase-auth-api.zzln: com.google.android.gms.internal.firebase-auth-api.zzlt zzf
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1 INSTANCE
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onConfigurationChanged(android.content.res.Configuration)
+com.google.firebase.auth.PhoneAuthCredential: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+androidx.window.layout.FoldingFeature$Orientation
+com.google.android.gms.internal.firebase-auth-api.zzju
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.SidecarWindowBackend getInstance(android.content.Context)
+androidx.window.embedding.SplitInfo: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+androidx.fragment.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void setWebMessageCallback(java.lang.reflect.InvocationHandler)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertServiceWorkerSettings(java.lang.reflect.InvocationHandler)
+kotlinx.coroutines.InvokeOnCompletion
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: WindowInfoTrackerCallbackAdapter$addListener$1$1(kotlinx.coroutines.flow.Flow,androidx.core.util.Consumer,kotlin.coroutines.Continuation)
+androidx.window.R$attr: int activityName
+com.google.android.gms.internal.firebase-auth-api.zzms: int zzg
+com.google.android.gms.internal.firebase-auth-api.zzro: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairFilter parseSplitPairFilter(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.layout.SidecarWindowBackend$Companion
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.WindowInfoTracker$Companion: WindowInfoTracker$Companion()
+androidx.window.embedding.ActivityStack: int hashCode()
+com.google.android.gms.internal.firebase-auth-api.zzme: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+com.google.android.gms.safetynet.zzd: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+kotlinx.coroutines.android.AndroidExceptionPreHandler
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+com.google.android.gms.internal.firebase-auth-api.zzjo: int zze
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+androidx.window.R$attr: int finishPrimaryWithSecondary
+com.google.firebase.auth.internal.RecaptchaActivity
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity getActivity()
+com.google.android.gms.internal.firebase-auth-api.zzjx: int zze
+com.google.android.gms.internal.firebase-auth-api.zzmk: com.google.android.gms.internal.firebase-auth-api.zzmk zzb
+kotlinx.coroutines.android.AndroidDispatcherFactory: java.lang.String hintOnError()
+org.chromium.support_lib_boundary.WebResourceRequestBoundaryInterface
+kotlinx.coroutines.channels.Receive
+androidx.window.layout.WindowInfoTracker: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+androidx.window.core.Bounds: Bounds(int,int,int,int)
+androidx.window.layout.WindowInfoTrackerImpl: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+com.google.android.gms.internal.firebase-auth-api.zzms: java.lang.String zze
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setSafeBrowsingEnabled(boolean)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzjo
+kotlinx.coroutines.JobSupport
+androidx.window.embedding.SplitController$Companion: void initialize(android.content.Context,int)
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext minusKey(kotlin.coroutines.CoroutineContext$Key)
+com.google.android.gms.internal.firebase-auth-api.zzli
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setAllowContentAccess(boolean)
+androidx.window.R$attr: R$attr()
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1
+com.google.android.gms.internal.firebase-auth-api.zzlq
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+com.google.android.gms.internal.firebase-auth-api.zzmh: int zze
+com.google.android.gms.internal.firebase-auth-api.zznb: int zzh
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.view.DisplayCutout getCutoutForDisplay(android.view.Display)
+com.google.firebase.auth.FirebaseAuthRegistrar: com.google.firebase.auth.FirebaseAuth lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+androidx.window.layout.SidecarWindowBackend
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+com.google.android.gms.internal.firebase-auth-api.zzku: com.google.android.gms.internal.firebase-auth-api.zzld zze
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+com.google.android.gms.internal.firebase-auth-api.zzno
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+androidx.window.core.Version: int compareTo(java.lang.Object)
+com.google.firebase.auth.UserProfileChangeRequest: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzrm: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.common.internal.ResolveAccountRequest: android.os.Parcelable$Creator CREATOR
+kotlin.jvm.internal.FunctionReference: int getArity()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable getReflected()
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat getEmbeddingExtension()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityFilter parseActivityFilter(android.content.Context,android.content.res.XmlResourceParser)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+com.google.android.gms.internal.firebase-auth-api.zzqc: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List getLastInfo()
+androidx.window.embedding.EmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.gms.internal.firebase-auth-api.zzin
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key key
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+androidx.window.embedding.SplitInfo: float getSplitRatio()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPairPredicates$lambda-1(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+androidx.window.layout.DisplayCompatHelperApi28: DisplayCompatHelperApi28()
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: java.util.concurrent.Executor executor
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: void initSafeBrowsing(android.content.Context,android.webkit.ValueCallback)
+androidx.window.layout.SidecarCompat$DistinctElementCallback: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface callbackInterface
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: SidecarWindowBackend$WindowLayoutChangeCallbackWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.gms.internal.firebase-auth-api.zzmb: int zzg
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+androidx.window.core.Bounds: java.lang.String toString()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+com.google.android.gms.internal.firebase-auth-api.zzla: com.google.android.gms.internal.firebase-auth-api.zzla zzb
+com.google.android.gms.internal.firebase-auth-api.zznf: com.google.android.gms.internal.firebase-auth-api.zzni zzf
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+com.google.android.gms.internal.firebase-auth-api.zzmh: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTrackerDecorator decorator
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$InputAwareWebViewPlatformView
+io.flutter.plugins.webviewflutter.WebViewHostApiImpl$WebViewPlatformView: void setWebChromeClient(android.webkit.WebChromeClient)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+com.google.android.gms.internal.firebase-auth-api.zzin: int zze
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+com.google.android.gms.safetynet.zzh: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.WindowMetrics: android.graphics.Rect getBounds()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.Set getSplitRules()
+kotlinx.coroutines.channels.ArrayChannel
+androidx.window.embedding.SplitController: boolean sDebug
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void close()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.Object convertSafeBrowsingResponse(java.lang.reflect.InvocationHandler)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+androidx.window.embedding.SplitPairRule: boolean getFinishPrimaryWithSecondary()
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend globalInstance
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: boolean validBounds(android.app.Activity,androidx.window.core.Bounds)
+com.google.android.gms.internal.firebase-auth-api.zzik: com.google.android.gms.internal.firebase-auth-api.zzik zzb
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface access$getExtensionCallback$p(androidx.window.layout.SidecarCompat)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: androidx.window.layout.WindowInfoTrackerImpl this$0
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State HALF_OPENED
+androidx.window.embedding.EmbeddingAdapter: EmbeddingAdapter()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+com.google.android.gms.internal.firebase-auth-api.zzyj: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.FullLifecycleObserverAdapter
+kotlinx.coroutines.EventLoopImplBase$DelayedTaskQueue
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor: int MODULE_VERSION
+androidx.window.core.Version: int major
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsQ$window_release(android.app.Activity)
+com.google.android.gms.internal.firebase-auth-api.zznb: int zzf
+com.google.android.gms.common.util.DynamiteApi
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertWebResourceError(java.lang.Object)
+androidx.window.embedding.SplitRuleParser
+androidx.fragment.app.Fragment$2
+kotlinx.coroutines.android.AndroidDispatcherFactory: AndroidDispatcherFactory()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$2
+androidx.window.layout.FoldingFeature$State$Companion
+com.google.android.gms.internal.firebase-auth-api.zzko: com.google.android.gms.internal.firebase-auth-api.zzko zzb
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl splitInfoEmbeddingCallback
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable compute()
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.ExtensionEmbeddingBackend getInstance()
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack primaryActivityStack
+com.google.android.gms.internal.firebase-auth-api.zzld: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1(androidx.window.layout.SidecarCompat,android.app.Activity)
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+androidx.window.layout.SidecarWindowBackend: void setWindowExtension(androidx.window.layout.ExtensionInterfaceCompat)
+com.google.android.gms.internal.firebase-auth-api.zzih: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+androidx.window.embedding.ActivityFilter: int hashCode()
+androidx.window.R$styleable: int SplitPairRule_clearTop
+kotlinx.coroutines.CancellableContinuationImpl: int _decision
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map activityToListeners
+com.google.android.gms.internal.firebase-auth-api.zzqi: android.os.Parcelable$Creator CREATOR
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+com.google.android.gms.internal.firebase-auth-api.zzmb
+kotlinx.coroutines.EventLoopImplBase
+com.google.android.gms.internal.firebase-auth-api.zzmp: int zzg
+com.google.android.gms.signin.internal.zai: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+kotlin.coroutines.jvm.internal.SuspendLambda: int arity
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onPageCommitVisible(android.webkit.WebView,java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzih: com.google.android.gms.internal.firebase-auth-api.zzih zzb
+com.google.android.gms.internal.firebase-auth-api.zznb: java.lang.String zze
+kotlinx.coroutines.scheduling.GlobalQueue
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+androidx.window.core.Version: boolean equals(java.lang.Object)
+androidx.fragment.app.FragmentManagerViewModel
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+com.google.android.gms.internal.firebase-auth-api.zzku: int zzg
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface callback
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+androidx.window.core.Version: java.lang.String toString()
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock globalLock
+com.google.android.gms.internal.firebase-auth-api.zzkg
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPreDestroyed(android.app.Activity)
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingAdapter adapter
+androidx.window.embedding.ActivityStack: boolean contains(android.app.Activity)
+androidx.core.content.ContextCompat$Api24Impl: java.io.File getDataDir(android.content.Context)
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlin.jvm.internal.CallableReference: CallableReference()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+androidx.window.embedding.ActivityStack: java.util.List activities
+kotlinx.coroutines.internal.ThreadSafeHeap
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int)
+org.chromium.support_lib_boundary.WebResourceRequestBoundaryInterface: boolean isRedirect()
+androidx.window.layout.WindowBackend
+com.google.firebase.provider.FirebaseInitProvider
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State FLAT
+androidx.window.layout.FoldingFeature$State: java.lang.String toString()
+kotlinx.coroutines.scheduling.WorkQueue
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted
+com.google.firebase.auth.internal.zzx: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzkx: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+com.google.android.gms.internal.firebase-auth-api.zzku: com.google.android.gms.internal.firebase-auth-api.zzko zzf
+androidx.window.core.Version$bigInteger$2: java.lang.Object invoke()
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+androidx.window.R$attr
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDeviceState(androidx.window.sidecar.SidecarDeviceState,androidx.window.sidecar.SidecarDeviceState)
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+com.google.android.gms.internal.firebase-auth-api.zzmp: java.lang.String zze
+com.google.android.gms.safetynet.zza: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation getCompletion()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzkr: com.google.android.gms.internal.firebase-auth-api.zzkr zzb
+androidx.window.core.Version$Companion
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion()
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_0_1$cp()
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: void setOffscreenPreRaster(boolean)
+androidx.core.content.ContextCompat$Api16Impl: void startActivity(android.content.Context,android.content.Intent,android.os.Bundle)
+androidx.window.embedding.SplitController: void access$setGlobalInstance$cp(androidx.window.embedding.SplitController)
+com.google.android.gms.internal.firebase-auth-api.zzkr: com.google.android.gms.internal.firebase-auth-api.zzku zze
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable getReflected()
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+androidx.window.embedding.SplitInfo: SplitInfo(androidx.window.embedding.ActivityStack,androidx.window.embedding.ActivityStack,float)
+com.google.android.gms.internal.firebase-auth-api.zzjr
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+androidx.window.embedding.EmbeddingInterfaceCompat
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface: boolean getSafeBrowsingEnabled()
+kotlinx.coroutines.android.AndroidDispatcherFactory: kotlinx.coroutines.android.HandlerContext createDispatcher(java.util.List)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.Map consumerToJobMap
+androidx.window.embedding.SplitRule: int minSmallestWidth
+kotlin.jvm.internal.FunctionReference: java.lang.String toString()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion()
+com.google.android.gms.internal.firebase-auth-api.zzno: com.google.android.gms.internal.firebase-auth-api.zzmp zzf
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.lang.String TAG
+androidx.window.R$attr: int splitMinWidth
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeatures(java.util.List,java.util.List)
+com.google.android.gms.internal.firebase-auth-api.zznz: int zze
+androidx.window.layout.WindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertSafeBrowsingResponse(java.lang.Object)
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.gms.internal.firebase-auth-api.zzik: com.google.android.gms.internal.firebase-auth-api.zzin zzf
+com.google.android.gms.internal.firebase-auth-api.zzlt: int zzf
+androidx.window.embedding.SplitRule: int getMinWidth()
+com.google.android.gms.internal.firebase-auth-api.zzkx
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.gms.internal.firebase-auth-api.zzyq: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+com.google.android.gms.internal.firebase-auth-api.zzld: int zzf
+com.google.android.gms.internal.firebase-auth-api.zznl: com.google.android.gms.internal.firebase-auth-api.zznl zzb
+androidx.window.layout.WindowInfoTracker$Companion: void reset()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int overlayInsetTypes
+androidx.window.layout.SidecarWindowBackend: boolean DEBUG
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat()
+com.google.android.gms.internal.firebase-auth-api.zzji: com.google.android.gms.internal.firebase-auth-api.zzji zzb
+com.google.android.gms.internal.firebase-auth-api.zzjx: com.google.android.gms.internal.firebase-auth-api.zzjx zzb
+androidx.window.layout.WindowMetrics: int hashCode()
+com.google.android.gms.internal.firebase-auth-api.zzjc: com.google.android.gms.internal.firebase-auth-api.zzjc zzb
+kotlinx.coroutines.internal.LockFreeLinkedListNode$CondAddOp
+com.google.android.gms.internal.firebase-auth-api.zzmb: int zze
+com.google.android.gms.internal.firebase-auth-api.zzzd: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzjx
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+com.google.android.gms.internal.firebase-auth-api.zzni: com.google.android.gms.internal.firebase-auth-api.zzni zzb
+com.google.android.gms.internal.firebase-auth-api.zzmw: int zzf
+kotlinx.coroutines.channels.AbstractSendChannel$SendBuffered
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect maximumWindowBounds(android.app.Activity)
+androidx.core.content.ContextCompat$Api16Impl: void startActivities(android.content.Context,android.content.Intent[],android.os.Bundle)
+com.google.firebase.FirebaseCommonRegistrar: FirebaseCommonRegistrar()
+com.google.android.gms.internal.firebase-auth-api.zzln: com.google.android.gms.internal.firebase-auth-api.zzln zzb
+androidx.window.embedding.EmptyEmbeddingComponent: void setSplitInfoCallback(java.util.function.Consumer)
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int)
+androidx.window.layout.WindowMetrics: WindowMetrics(android.graphics.Rect)
+androidx.window.layout.ActivityCompatHelperApi24: boolean isInMultiWindowMode(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.window.embedding.SplitController: SplitController(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.HardwareFoldingFeature$Companion: void validateFeatureBounds$window_release(androidx.window.core.Bounds)
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int)
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+com.google.firebase.auth.internal.zzp: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect currentWindowBounds(android.app.Activity)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+androidx.window.layout.ActivityCompatHelperApi24
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler getStatics()
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer callback
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.core.Bounds: int top
+androidx.window.layout.HardwareFoldingFeature: boolean equals(java.lang.Object)
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+androidx.window.layout.FoldingFeature$State
+androidx.window.layout.ActivityCompatHelperApi30: ActivityCompatHelperApi30()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type type
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer getCallback()
+androidx.window.embedding.SplitPairRule: java.util.Set filters
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostCreated(android.app.Activity,android.os.Bundle)
+kotlin.jvm.internal.CallableReference: boolean isSuspend()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo lastInfo
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String description
+androidx.window.embedding.SplitInfo: boolean equals(java.lang.Object)
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+kotlinx.coroutines.internal.DispatchedContinuation
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept$lambda-1(androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper,java.util.List)
+androidx.window.embedding.SplitPairFilter: boolean equals(java.lang.Object)
+androidx.window.layout.ActivityCompatHelperApi30
+kotlinx.coroutines.CancelledContinuation
+com.google.android.gms.internal.firebase-auth-api.zzik
+androidx.window.R$styleable: int SplitPairRule_finishSecondaryWithPrimary
+com.google.android.gms.internal.firebase-auth-api.zzqm: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsIceCreamSandwich$window_release(android.app.Activity)
+androidx.window.core.Bounds: int bottom
+com.google.firebase.auth.PlayGamesAuthCredential: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarAdapter: androidx.window.layout.SidecarAdapter$Companion Companion
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: android.app.Activity $activity
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+androidx.window.embedding.EmbeddingAdapter: java.util.Set translate(java.util.Set)
+com.google.android.gms.common.internal.ConnectionTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: androidx.window.layout.WindowLayoutInfo lastKnownValue
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: WindowInfoTrackerCallbackAdapter(androidx.window.layout.WindowInfoTracker)
+io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar: FlutterFirebaseAuthRegistrar()
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+com.google.android.gms.internal.firebase-auth-api.zzly: com.google.android.gms.internal.firebase-auth-api.zzly zzb
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzih
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarInterface$SidecarCallback callbackInterface
+com.google.android.gms.common.internal.ResolveAccountResponse: android.os.Parcelable$Creator CREATOR
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.String[] getSupportedFeatures()
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity activity
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: ExtensionEmbeddingBackend$SplitListenerWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.FoldingFeature$OcclusionType: FoldingFeature$OcclusionType(java.lang.String)
+androidx.window.layout.HardwareFoldingFeature: int hashCode()
+com.google.android.gms.internal.firebase-auth-api.zzmp: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Point getRealSizeForDisplay$window_release(android.view.Display)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker getOrCreate(android.content.Context)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+com.google.android.gms.internal.firebase-auth-api.zzju: com.google.android.gms.internal.firebase-auth-api.zzju zzb
+androidx.window.layout.WindowInfoTrackerImpl: int BUFFER_CAPACITY
+androidx.window.layout.WindowMetricsCalculator
+kotlin.jvm.internal.CallableReference: java.lang.Object getBoundReceiver()
+androidx.window.layout.WindowMetricsCalculatorCompat: WindowMetricsCalculatorCompat()
+kotlin.jvm.internal.CallableReference: java.lang.String signature
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPairPredicates(java.util.Set)
+androidx.window.core.Version: androidx.window.core.Version CURRENT
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+io.flutter.plugins.webviewflutter.InputAwareWebView: void setContainerView(android.view.View)
+com.google.android.gms.internal.firebase-auth-api.zzmk: java.lang.String zze
+androidx.window.R$styleable: int ActivityFilter_activityName
+kotlinx.coroutines.channels.ConflatedChannel
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: boolean getBlockNetworkLoads()
+androidx.window.core.Version: int compareTo(androidx.window.core.Version)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: androidx.window.extensions.layout.WindowLayoutComponent component
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.window.R$styleable: int SplitPlaceholderRule_splitRatio
+kotlin.jvm.internal.Lambda: Lambda(int)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.StackTraceElement getStackTraceElement()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: int label
+androidx.window.embedding.EmbeddingBackend: boolean isSplitSupported()
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface: java.lang.reflect.InvocationHandler createWebView(android.webkit.WebView)
+androidx.window.embedding.SplitRule: int minWidth
+kotlinx.coroutines.JobNode
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator$Companion $$INSTANCE
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1(androidx.core.util.Consumer)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+androidx.window.R$attr: int splitRatio
+com.google.android.gms.internal.firebase-auth-api.zzih: int zze
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean)
+com.google.android.gms.internal.firebase-auth-api.zzin: com.google.android.gms.internal.firebase-auth-api.zzin zzb
+io.flutter.view.AccessibilityViewEmbedder
+androidx.window.embedding.MatcherUtils
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: void registerPlugin(java.lang.String,io.flutter.plugins.firebase.core.FlutterFirebasePlugin)
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+androidx.window.embedding.ActivityStack: java.lang.String toString()
+androidx.window.core.Bounds: android.graphics.Rect toRect()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.gms.internal.firebase-auth-api.zznt: com.google.android.gms.internal.firebase-auth-api.zzacc zzf
+com.google.android.gms.internal.firebase-auth-api.zznf
+kotlinx.coroutines.channels.Closed
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setCacheMode(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+androidx.activity.ComponentActivity$3
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,kotlin.reflect.KDeclarationContainer,java.lang.String,java.lang.String)
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityStarted(android.app.Activity)
+com.google.android.gms.internal.firebase-auth-api.zzsa: android.os.Parcelable$Creator CREATOR
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+androidx.window.layout.FoldingFeature$OcclusionType
+com.google.android.gms.internal.firebase-auth-api.zzlq: com.google.android.gms.internal.firebase-auth-api.zzlt zze
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+androidx.window.layout.SidecarWindowBackend: void getWindowLayoutChangeCallbacks$annotations()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$1
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+androidx.window.layout.SidecarWindowBackend: java.lang.String TAG
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend access$getWindowBackend$p(androidx.window.layout.WindowInfoTrackerImpl)
+io.flutter.embedding.android.FlutterImageView
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface getSidecar()
+androidx.window.core.Bounds: boolean isEmpty()
+com.google.android.gms.internal.firebase-auth-api.zzabx: com.google.android.gms.internal.firebase-auth-api.zzaeg zzc
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set getFilters()
+androidx.window.layout.WindowMetricsCalculatorDecorator: androidx.window.layout.WindowMetricsCalculator decorate(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.layout.SidecarAdapter: java.lang.String TAG
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface: java.lang.reflect.InvocationHandler[] createWebMessageChannel()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List lastInfo
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetricsCalculatorCompat INSTANCE
+com.google.android.gms.internal.firebase-auth-api.zzjf
+com.google.android.gms.internal.firebase-auth-api.zzyw: android.os.Parcelable$Creator CREATOR
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+androidx.window.core.Version$bigInteger$2
+com.google.android.gms.common.internal.ReflectedParcelable
+androidx.window.layout.SidecarCompat: java.util.Map access$getWindowListenerRegisteredContexts$p(androidx.window.layout.SidecarCompat)
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitXml(android.content.Context,int)
+androidx.browser.browseractions.BrowserActionsFallbackMenuView: BrowserActionsFallbackMenuView(android.content.Context,android.util.AttributeSet)
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+com.google.android.gms.internal.firebase-auth-api.zzyy: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.HardwareFoldingFeature: boolean isSeparating()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.EmbeddingInterfaceCompat initAndVerifyEmbeddingExtension()
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface
+org.chromium.support_lib_boundary.WebResourceErrorBoundaryInterface: java.lang.CharSequence getDescription()
+androidx.window.layout.SidecarWindowBackend$Companion: boolean isSidecarVersionSupported(androidx.window.core.Version)
+androidx.window.layout.ActivityCompatHelperApi24: ActivityCompatHelperApi24()
+androidx.window.embedding.EmbeddingAdapter: boolean translateIntentPredicates$lambda-8(java.util.Set,android.content.Intent)
+androidx.window.embedding.ActivityRule: boolean alwaysExpand
+androidx.window.embedding.ActivityFilter: boolean matchesActivity(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend$Companion: void resetInstance()
+org.chromium.support_lib_boundary.WebkitToCompatConverterBoundaryInterface: java.lang.reflect.InvocationHandler convertServiceWorkerSettings(java.lang.Object)
+androidx.window.layout.SidecarAdapter$Companion: androidx.window.layout.DisplayFeature translate$window_release(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDeviceState)
+androidx.activity.ComponentActivity$2
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityIntentPair(android.app.Activity,android.content.Intent)
+androidx.window.layout.FoldingFeature$OcclusionType$Companion
+kotlin.coroutines.jvm.internal.SuspendLambda: int getArity()
+androidx.window.R$id: int androidx_window_activity_scope
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetLeft(android.view.DisplayCutout)
+androidx.window.embedding.ActivityFilter: boolean matchesIntent(android.content.Intent)
+kotlinx.coroutines.scheduling.CoroutineScheduler
+androidx.window.layout.SidecarCompat: androidx.window.layout.WindowLayoutInfo getWindowLayoutInfo(android.app.Activity)
+androidx.window.layout.WindowInfoTracker$Companion: void overrideDecorator(androidx.window.layout.WindowInfoTrackerDecorator)
+com.google.android.gms.internal.firebase-auth-api.zzye: com.google.android.gms.internal.firebase-auth-api.zzye[] values()
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: androidx.window.layout.SidecarCompat this$0
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+org.chromium.support_lib_boundary.FeatureFlagHolderBoundaryInterface
+androidx.window.layout.WindowInfoTracker
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+androidx.window.layout.DisplayCompatHelperApi17: androidx.window.layout.DisplayCompatHelperApi17 INSTANCE
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName primaryActivityName
+androidx.window.layout.FoldingFeature: boolean isSeparating()
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+kotlinx.coroutines.CancellableContinuationImpl
+kotlinx.coroutines.JobSupport$ChildCompletion
+com.google.android.gms.internal.firebase-auth-api.zzkr
+com.google.android.gms.common.api.Status: android.os.Parcelable$Creator CREATOR
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+com.google.android.gms.internal.firebase-auth-api.zzji: com.google.android.gms.internal.firebase-auth-api.zzjl zze
+androidx.window.R$id
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+androidx.window.layout.WindowInfoTrackerImpl
+com.google.android.gms.internal.firebase-auth-api.zznt: com.google.android.gms.internal.firebase-auth-api.zznt zzb
+com.google.firebase.components.ComponentDiscoveryService
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addWindowLayoutInfoListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.core.Version: int minor
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+kotlin.jvm.internal.CallableReference: java.util.List getTypeParameters()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+kotlinx.coroutines.LazyStandaloneCoroutine
+androidx.window.R$attr: int activityAction
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+kotlinx.coroutines.ChildHandleNode
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getPrimaryActivityName()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.concurrent.locks.ReentrantLock lock
+androidx.window.embedding.EmbeddingBackend
+com.google.android.gms.internal.firebase-auth-api.zzkg: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairRule parseSplitPairRule(android.content.Context,android.content.res.XmlResourceParser)
+kotlin.jvm.internal.FunctionReference: boolean isInline()
+com.google.android.gms.internal.firebase-auth-api.zznt: java.lang.String zze
+com.google.android.gms.internal.firebase-auth-api.zzla: com.google.android.gms.internal.firebase-auth-api.zzaau zzh
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+androidx.window.core.Version$Companion: Version$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+com.google.android.gms.internal.firebase-auth-api.zziw: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+com.google.android.gms.internal.firebase-auth-api.zzmb: com.google.android.gms.internal.firebase-auth-api.zzmb zzb
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+kotlin.jvm.internal.FunctionReference: boolean equals(java.lang.Object)
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingCompat$Companion Companion
+com.google.android.gms.internal.firebase-auth-api.zzrw: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPredicates$lambda-6(java.util.Set,android.app.Activity)
+org.chromium.support_lib_boundary.ServiceWorkerWebSettingsBoundaryInterface: void setAllowFileAccess(boolean)
+androidx.window.layout.SidecarCompat: void register(android.os.IBinder,android.app.Activity)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set filters
+androidx.window.core.Version
+androidx.window.R$id: int rtl
+org.chromium.support_lib_boundary.ServiceWorkerControllerBoundaryInterface: java.lang.reflect.InvocationHandler getServiceWorkerWebSettings()
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+kotlin.jvm.internal.FunctionReference: boolean isSuspend()
+androidx.window.layout.SidecarAdapter$Companion
+kotlinx.coroutines.NodeList
+androidx.window.R$styleable: int SplitPairRule_splitLayoutDirection
+org.chromium.support_lib_boundary.WebMessagePortBoundaryInterface: void postMessage(java.lang.reflect.InvocationHandler)
+com.google.android.gms.internal.firebase-auth-api.zzld: int zze
+androidx.window.embedding.SplitInfo: float splitRatio
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1
+androidx.window.embedding.SplitController$Companion: SplitController$Companion()
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: java.util.Map registeredPlugins
+androidx.window.layout.HardwareFoldingFeature$Type
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+com.google.android.gms.internal.firebase-auth-api.zzrq: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzmx: com.google.android.gms.internal.firebase-auth-api.zzacc zzf
+kotlin.jvm.internal.FunctionReference: int flags
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+androidx.window.core.Version: java.math.BigInteger getBigInteger()
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+com.google.firebase.auth.GoogleAuthCredential: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.signin.internal.zak: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.internal.GenericIdpActivity
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_0_1()
+kotlinx.coroutines.JobSupport$Finishing
+com.google.android.gms.internal.firebase-auth-api.zznc: com.google.android.gms.internal.firebase-auth-api.zzacc zzf
+androidx.window.embedding.SplitRule$LayoutDir
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+com.google.android.gms.internal.firebase-auth-api.zzjc
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.window.embedding.EmbeddingInterfaceCompat: void setSplitRules(java.util.Set)
+androidx.window.core.Version: java.lang.String VERSION_PATTERN_STRING
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+com.google.android.gms.internal.firebase-auth-api.zzyh: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzjf: int zze
+androidx.window.layout.SidecarWindowBackend: void callbackRemovedForActivity(android.app.Activity)
+androidx.window.layout.EmptyDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+androidx.window.embedding.SplitController: boolean isSplitSupported()
+org.chromium.support_lib_boundary.WebViewProviderFactoryBoundaryInterface
+com.google.android.gms.internal.firebase-auth-api.zzabu
+com.google.android.gms.internal.firebase-auth-api.zzjl: int zze
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_1_0$cp()
+androidx.window.embedding.SplitPairRule: boolean clearTop
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(kotlinx.coroutines.flow.FlowCollector,kotlin.coroutines.Continuation)
+com.google.firebase.auth.EmailAuthCredential: android.os.Parcelable$Creator CREATOR
+com.google.firebase.auth.FirebaseAuth: com.google.firebase.auth.FirebaseAuth getInstance()
+kotlin.coroutines.AbstractCoroutineContextElement: kotlin.coroutines.CoroutineContext$Key getKey()
+androidx.window.layout.WindowInfoTracker: androidx.window.layout.WindowInfoTracker$Companion Companion
+androidx.window.R$styleable: int SplitPairRule_finishPrimaryWithSecondary
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+androidx.window.core.Version$bigInteger$2: java.math.BigInteger invoke()
+androidx.window.R$styleable: int[] ActivityRule
+com.google.firebase.auth.internal.zzr: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.WeakHashMap activityWindowLayoutInfo
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter sidecarAdapter
+androidx.window.embedding.SplitController$Companion: SplitController$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.gms.internal.firebase-auth-api.zzqk: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion()
+com.google.android.gms.internal.firebase-auth-api.zznc
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+com.google.android.gms.internal.firebase-auth-api.zzka: com.google.android.gms.internal.firebase-auth-api.zzaau zzf
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.java.R: R()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: androidx.window.layout.WindowInfoTracker tracker
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+com.google.android.gms.internal.firebase-auth-api.zzko: com.google.android.gms.internal.firebase-auth-api.zzmp zze
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getSecondaryActivityStack()
+androidx.window.embedding.EmbeddingAdapter: boolean translateParentMetricsPredicate$lambda-4(androidx.window.embedding.SplitRule,android.view.WindowMetrics)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName secondaryActivityName
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateIntentPredicates(java.util.Set)
+com.google.android.gms.internal.firebase-auth-api.zzme: com.google.android.gms.internal.firebase-auth-api.zzmh zzf
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityResumed(android.app.Activity)
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component2(android.util.Pair)
+kotlin.coroutines.jvm.internal.ContinuationImpl: void releaseIntercepted()
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+androidx.window.embedding.MatcherUtils: MatcherUtils()
+android.support.v4.app.RemoteActionCompatParcelizer
+com.google.android.gms.internal.firebase-auth-api.zzla: com.google.android.gms.internal.firebase-auth-api.zzku zzf
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+org.chromium.support_lib_boundary.WebViewClientBoundaryInterface: void onReceivedHttpError(android.webkit.WebView,android.webkit.WebResourceRequest,android.webkit.WebResourceResponse)
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor: ModuleDescriptor()
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinWidth
+androidx.window.embedding.SplitRule$Api30Impl: android.graphics.Rect getBounds(android.view.WindowMetrics)
+androidx.window.embedding.SplitPairRule: androidx.window.embedding.SplitPairRule plus$window_release(androidx.window.embedding.SplitPairFilter)
+androidx.window.layout.HardwareFoldingFeature
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.window.layout.EmptyDecorator: androidx.window.layout.EmptyDecorator INSTANCE
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+com.google.firebase.auth.internal.zzae: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.MatcherUtils: java.lang.String sMatchersTag
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList getSplitChangeCallbacks()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: androidx.core.util.Consumer $consumer$inlined
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+androidx.window.layout.WindowLayoutInfo: WindowLayoutInfo(java.util.List)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(java.lang.Object)
+com.google.firebase.components.ComponentDiscoveryService: ComponentDiscoveryService()
+androidx.window.embedding.MatcherUtils: boolean wildcardMatch(java.lang.String,java.lang.String)
+kotlinx.coroutines.internal.LockFreeTaskQueue
+androidx.window.layout.WindowLayoutInfo: java.util.List getDisplayFeatures()
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion()
+com.google.android.gms.internal.firebase-auth-api.zzacg: com.google.android.gms.internal.firebase-auth-api.zzacg[] values()
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext getContext()
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation VERTICAL
+com.google.android.gms.internal.firebase-auth-api.zziq: com.google.android.gms.internal.firebase-auth-api.zziw zzf
+androidx.window.R$styleable: int SplitPairRule_splitMinWidth
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+androidx.window.embedding.SplitController: SplitController()
+androidx.window.embedding.EmbeddingCompat: void setSplitRules(java.util.Set)
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: androidx.window.layout.SidecarWindowBackend this$0
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController getInstance()
+com.google.firebase.auth.internal.zzag: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(androidx.window.extensions.layout.WindowLayoutInfo)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.internal.firebase-auth-api.zzmh
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityDestroyed(android.app.Activity)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat windowExtension
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo,java.util.List)
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+androidx.window.R$id: R$id()
+androidx.core.app.RemoteActionCompatParcelizer
+com.google.android.gms.internal.firebase-auth-api.zzli: com.google.android.gms.internal.firebase-auth-api.zzli zzb
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+androidx.window.embedding.EmbeddingRule
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.layout.SidecarAdapter sidecarAdapter
+com.google.android.gms.internal.firebase-auth-api.zziq: com.google.android.gms.internal.firebase-auth-api.zziq zzb
+androidx.window.R
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_1_0()
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+androidx.lifecycle.ReportFragment$LifecycleCallbacks: void onActivityPostStarted(android.app.Activity)
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+com.google.android.gms.internal.firebase-auth-api.zzli: com.google.android.gms.internal.firebase-auth-api.zznc zzf
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: java.lang.Object invoke(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: android.app.Activity activity
+io.flutter.embedding.android.FlutterView
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String toString()
+androidx.lifecycle.Lifecycling$1
+com.google.android.gms.internal.firebase-auth-api.zzla: int zze
+androidx.window.core.Version$Companion: Version$Companion()
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(kotlin.coroutines.Continuation)
+kotlin.jvm.internal.CallableReference: boolean isFinal()
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$Companion Companion
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetTop(android.view.DisplayCutout)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+com.google.android.gms.internal.firebase-auth-api.zziq: int zze
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility[] values()
+androidx.window.embedding.EmbeddingAdapter
+com.google.android.gms.internal.firebase-auth-api.zzju: int zze
+androidx.window.layout.WindowInfoTrackerImpl: WindowInfoTrackerImpl(androidx.window.layout.WindowMetricsCalculator,androidx.window.layout.WindowBackend)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion()
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Class,java.lang.String,java.lang.String,int)
+androidx.window.layout.WindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+kotlinx.coroutines.internal.ScopeCoroutine
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat embeddingExtension
+androidx.window.layout.ActivityCompatHelperApi30: androidx.window.layout.ActivityCompatHelperApi30 INSTANCE
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.concurrent.Executor executor
+androidx.window.layout.ExtensionInterfaceCompat
+kotlinx.coroutines.internal.LockFreeTaskQueueCore
+androidx.window.embedding.SplitRule$Api30Impl
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+com.google.android.gms.internal.firebase-auth-api.zzyl: android.os.Parcelable$Creator CREATOR
+androidx.window.R$styleable: int ActivityFilter_activityAction
+com.google.android.gms.internal.firebase-auth-api.zznl: int zze
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+org.chromium.support_lib_boundary.WebSettingsBoundaryInterface
+androidx.window.embedding.SplitPairFilter: java.lang.String secondaryActivityIntentAction
+com.google.android.gms.internal.firebase-auth-api.zznf: com.google.android.gms.internal.firebase-auth-api.zznf zzb
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent placeholderIntent
+androidx.window.layout.WindowMetricsCalculatorDecorator
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String description
+androidx.window.embedding.SplitInfo: boolean contains(android.app.Activity)
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String toString()
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+androidx.window.embedding.SplitInfo
+com.google.android.gms.internal.firebase-auth-api.zzqa: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.firebase-auth-api.zzlq: int zzf
+androidx.window.layout.DisplayCompatHelperApi28: androidx.window.layout.DisplayCompatHelperApi28 INSTANCE
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void setLastInfo(androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.EmbeddingTranslatingCallback
+androidx.window.embedding.SplitController: void addSplitListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.R$styleable: int SplitPairRule_splitMinSmallestWidth
+com.google.android.gms.internal.firebase-auth-api.zzabx: java.util.Map zzb
+com.google.android.gms.common.internal.zzj: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+com.google.android.gms.internal.firebase-auth-api.zzqq: android.os.Parcelable$Creator CREATOR
+org.chromium.support_lib_boundary.StaticsBoundaryInterface: android.net.Uri getSafeBrowsingPrivacyPolicyUrl()
+com.google.android.gms.internal.firebase-auth-api.zzps: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map listenerToActivity
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+kotlin.jvm.internal.FunctionReference: boolean isExternal()
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+androidx.savedstate.Recreator
+com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor
+androidx.window.embedding.EmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.core.Version$Companion: androidx.window.core.Version getCURRENT()
+androidx.window.layout.WindowInfoTracker$Companion: boolean DEBUG
+com.google.android.gms.internal.firebase-auth-api.zziz: com.google.android.gms.internal.firebase-auth-api.zzjc zze
+androidx.window.layout.WindowMetricsCalculator$Companion: WindowMetricsCalculator$Companion()
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+com.google.android.gms.internal.firebase-auth-api.zzjf: com.google.android.gms.internal.firebase-auth-api.zzaau zzg
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.embedding.ExtensionEmbeddingBackend: ExtensionEmbeddingBackend(androidx.window.embedding.EmbeddingInterfaceCompat)
+androidx.window.layout.DisplayFeature: android.graphics.Rect getBounds()
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+com.google.android.gms.internal.firebase-auth-api.zzxv: android.os.Parcelable$Creator CREATOR
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+androidx.window.layout.SidecarWindowBackend: boolean isActivityRegistered(android.app.Activity)
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+com.google.android.gms.internal.firebase-auth-api.zzmw: int zzh
+androidx.window.layout.WindowMetrics: androidx.window.core.Bounds _bounds
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object)
+com.google.firebase.auth.FirebaseAuthRegistrar: java.util.List getComponents()
+androidx.window.embedding.EmbeddingBackend: void setSplitRules(java.util.Set)
+org.chromium.support_lib_boundary.WebViewProviderBoundaryInterface
+com.google.firebase.auth.PhoneAuthProvider$ForceResendingToken: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.WindowLayoutInfo: java.lang.String toString()
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.window.core.Version$Companion: androidx.window.core.Version parse(java.lang.String)
+androidx.window.embedding.EmbeddingCompat: boolean DEBUG
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+com.google.android.gms.internal.firebase-auth-api.zzabu: com.google.android.gms.internal.firebase-auth-api.zzabp zzb
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)

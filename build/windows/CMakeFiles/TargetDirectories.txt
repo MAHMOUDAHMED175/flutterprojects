@@ -1,0 +1,13 @@
+C:/Users/aa/StudioProjects/new_pp/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/runner/CMakeFiles/new_pp.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/plugins/desktop_window/CMakeFiles/desktop_window_plugin.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/plugins/desktop_window/CMakeFiles/INSTALL.dir
+C:/Users/aa/StudioProjects/new_pp/build/windows/plugins/desktop_window/CMakeFiles/ALL_BUILD.dir

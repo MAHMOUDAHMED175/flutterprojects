@@ -2,22 +2,30 @@
 
 import 'package:conditional_builder/conditional_builder.dart';
 import 'package:flutter/material.dart';
-import 'package:new_pp/layout/news_app/cubit/cubit.dart';
-import 'package:new_pp/modules/web_view/web_view_screen.dart';
+import 'package:fluttertoast/fluttertoast.dart';
+import 'package:new_pp/layout/Shop_App_layout/cubitShop/cubitShop.dart';
 
-import '../Cubit/cubit.dart';
+import '../../News_App_modules/web_view/web_view_screen.dart';
+import '../../TODO_APP_modules/Cubit/cubit.dart';
+import '../../layout/news_app_layout/cubit/cubit.dart';
+import '../styles/colors.dart';
 
 Widget defaultButton({
   double width=double .infinity,
-  Color background=Colors.deepOrangeAccent,
+  Color background=Colors.blueAccent,
   bool isUpperCase=true,
   double radius,
+
   Function() send,
+  Function() onclick,
+
   String text,
 })=>Container(
+
   width: width,
   child: MaterialButton(
-    onPressed: send,
+
+    onPressed: onclick,
     child: Text(
       isUpperCase?text.toUpperCase():text,
       style: TextStyle(
@@ -27,7 +35,7 @@ Widget defaultButton({
   ),
   decoration: BoxDecoration(
       color: background,
-      borderRadius:BorderRadius.circular(6.9)
+      borderRadius:BorderRadius.circular(55.9)
   ),
 );
 
@@ -35,6 +43,7 @@ Widget defaultFormField({
   @required TextEditingController controller,
   @required TextInputType type,
   Function(String) validate,
+  Function(String) onSubmit,
   Function(String) onChange,
   @required String label,
   Function() suffixIconn,
@@ -48,7 +57,9 @@ Widget defaultFormField({
   controller:controller,
   keyboardType:type,
   onTap:onTap,
+
   onChanged: onChange,
+  onFieldSubmitted: onSubmit,
   validator: validate,
   obscureText:isPassword ,
   decoration: InputDecoration(
@@ -101,6 +112,7 @@ Widget defaultFormField({
 //     ],
 //   ),
 // );
+//Dismissible دى بتخليك تعمل swap وتحريك من اليمين للشمال علشان تحذف العنصر
 Widget buildTaskItem(Map model,context)=>Dismissible(
   key:Key(model['id'].toString()),
   onDismissed:(directions){
@@ -248,12 +260,13 @@ Widget ConditionalBuilderTasks({
 //components of news App
 Widget buildArticleItem(article,context,index)=>Container(
   color: NewsCubit.get(context).SeclecteBusinessItem==index&&NewsCubit.get(context).isDesktop?Colors.grey[300]:null,
-  child:   InkWell(
+  child:   InkWell//علشان يخلى مجموعه عناصر مع بعض يتداس عليهم كأنهم عنصر واحد
+    (
 
     onTap: (){
 
       NewsCubit.get(context).selectedBusinessItem(index);
-      navigatorTo(context, WebViewScreen(article['url']['url']));
+      navigatorTo(context, WebViewScreen(article['url']));
 
     },
 
@@ -441,9 +454,9 @@ Widget buildArticleItem(article,context,index)=>Container(
 
   ),
 );
-Widget myDivider()=>Padding(
+Widget MyDivider()=>Padding(
   padding: const EdgeInsetsDirectional.only(
-    start:20.3,
+    start:21.3,
   ),
   child: Container(
     color: Colors.grey,
@@ -451,20 +464,173 @@ Widget myDivider()=>Padding(
   ),
 );
 Widget articleBuilder(list,context,{isSearch=false})=>ConditionalBuilder(
-  condition: list.length>0,
+  condition: list.length>0,//djksvdjcvjkdffvc
+  //sdcsdcsdc
   builder: (context)=>ListView.separated(
     physics:BouncingScrollPhysics(),//علشان يحوش اللون الازرق لتفوق وميكنش فيه عناصر تانى وتكون الليست انتهت  فلما اشد ميظهرش لون ازرق
     itemBuilder: (context ,index)=>buildArticleItem(list[index],context,index),
-    separatorBuilder: (context , index)=>myDivider(),
+    separatorBuilder: (context , index)=>MyDivider(),
     itemCount:list.length,
   ),
   fallback: (context)=>isSearch==true?Container():Center(child: CircularProgressIndicator()),
 );
 
-
+//دى بتعمل push وكل مره ينفع ترجع
 void navigatorTo(context,widget)=>Navigator.push(
   context,
   MaterialPageRoute(
     builder: (context) => widget
 )
 );
+//دى بتعمل push ومينفعش ترجع تانى
+void navigateAndFinish(context ,widget)=>Navigator.pushAndRemoveUntil(
+    context,
+    MaterialPageRoute(
+        builder:(context)=> widget
+    ),
+        (route) => false
+);
+void showToast({
+  @required String text,
+  @required ToastStates state,
+}){
+
+Fluttertoast.showToast(
+msg:text,
+toastLength: Toast.LENGTH_LONG,
+gravity: ToastGravity.SNACKBAR,
+timeInSecForIosWeb: 4,
+backgroundColor: chooseColorsToast(state),
+textColor: Colors.white,
+fontSize: 20.2
+);
+
+
+}
+//دى حاجه لما اكون عايز اختار مابين اكثر من 3
+enum ToastStates{SUCCESS,ERROR,WARNING}
+
+Color chooseColorsToast(ToastStates state){
+  Color color;
+  switch(state)
+  {
+    case ToastStates.SUCCESS:
+    color=Colors.green;
+    break;
+    case ToastStates.ERROR:
+    color=Colors.red;
+    break;
+    case ToastStates.WARNING:
+    color=Colors.yellow;
+    break;
+  }
+  return color;
+}
+
+Widget BuildListProduct(model, context,{bool isOldPrise=false}){
+
+  return Padding(
+    padding: const EdgeInsets.all(20.0),
+    child: Container(
+      height: 120.0,
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Stack(
+            alignment: AlignmentDirectional.bottomStart,
+            children: [
+              Image(image:NetworkImage(model.image),
+                // fit:BoxFit.cover,
+                height:150.0,
+                width:150.0,
+              ),
+              if(model.discount !=0&&isOldPrise)
+                Expanded(
+                  child: Container(
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(10.0),
+                      color: Colors.red,
+                    ),
+
+                    padding: EdgeInsets.all(6.0),
+                    child: Text(
+                      'DISCOUNT',
+                      style: TextStyle(
+                        fontSize: 13.0,
+                      ),
+                    ),
+                  ),
+                ),
+            ],
+          ),
+          SizedBox(
+            width: 20.0,
+          ),
+          Expanded(
+            child: Column(
+              children: [
+                Text(
+                  model.name,
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: TextStyle(
+                    height: 1.3,
+                    fontSize: 14.0,
+                  ),
+                ),
+                Spacer(),
+                Row(
+                  children: [
+                    Text(
+                      '${model.price.round()}',
+                      maxLines: 2,
+                      style: TextStyle(
+                        overflow: TextOverflow.ellipsis,
+                        fontSize: 14.0,
+                        height: 2.0,
+                        color: dafultColor,
+                      ),
+                    ),
+                    SizedBox(
+                      width:10.0,
+                    ),
+                    if(model.discount!=0&& isOldPrise)
+                      Text(
+                        '${model.oldPrice.round()}',//علشان يدينى رقم  integer
+                        style: TextStyle(
+                          decoration: TextDecoration.lineThrough,// علشان اعمل خط على السعر القديم
+                          fontSize: 12.0,
+                          height: 2.0,
+                          color: Colors.grey[500],
+                        ),
+                      ),
+                    Spacer(),//علشان اودى العنصر اللى  بعده للاخر وافصل مابين اللى قبله واللى بعده بمسافه كwidth
+                    IconButton(
+                      onPressed: (){
+                        shopCubit.get(context).ChgangeFavorites(model.id);
+
+                      },
+                      icon: CircleAvatar(
+                        radius: 16.0,
+                        backgroundColor :shopCubit.get(context).favorites[model.id]?Colors.blue:Colors.grey,
+                        child: Icon(
+                          Icons.favorite_border,
+                          size: 20.0,
+                          color: Colors.grey[200],
+                        ),
+                      ),),
+
+                  ],
+                ),
+
+              ],
+            ),
+          ),
+
+
+        ],
+
+      ),
+    ),
+  );
+}
